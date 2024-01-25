@@ -1,6 +1,5 @@
-- 👋 Hi, I’m @arlanhandika
-
-<!---
-arlanhandika/arlanhandika is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+- 👋 Hi, I’m Arlan Tri Handika!
+- 👀 I’m interested in Software Engineering
+- 🌱 I’m currently learning Front-End and Back-End Development
+- 💞️ I’m looking to collaborate on some projects
+- 📫 How to reach me [Instagram](https://www.instagram.com/handika3arlan/), and [LinkedIn](https://www.linkedin.com/in/arlantrihandika/)
