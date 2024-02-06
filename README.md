@@ -3,7 +3,7 @@
 - 👀 I’m interested in Software Engineering
 - 🌱 I’m currently learning Front-End and Back-End Development
 - 💞️ I’m looking to collaborate on some projects
-- 📫 How to reach me [Instagram](https://www.instagram.com/handika3arlan/), and [LinkedIn](https://www.linkedin.com/in/arlan-tri-handika/)
+- 📫 How to reach me [Instagram](https://www.instagram.com/handikatriarlan/), and [LinkedIn](https://www.linkedin.com/in/arlan-tri-handika/)
 
 ### Github Statistic
 <p align="left">
