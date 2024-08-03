@@ -18,8 +18,8 @@
             src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg"
             alt="handikatriarlan" height="30" width="40" /></a>
     <a href="https://twitter.com/handikatriarlan" target="blank"><img align="center"
-            src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/twitter/twitter-original.svg" alt="handikatriarlan"
-            height="25" width="25" /></a>
+            src="https://img.icons8.com/?size=100&id=ClbD5JTFM7FA&format=png&color=000000" alt="handikatriarlan"
+            height="40" width="40" /></a>
     <a href="https://medium.com/@handikatriarlan" target="blank"><img align="center"
             src="https://img.icons8.com/?size=100&id=kXpTR7n8QCEP&format=png&color=000000" alt="@handikatriarlan"
             alt="@handikatriarlan" height="50" width="50" /></a>
