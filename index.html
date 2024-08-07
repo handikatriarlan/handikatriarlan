@@ -46,13 +46,31 @@
         else if (isDarkOrAuto && html.classList.contains('light')) html.classList.remove('light');
         else if (isDarkOrAuto && !html.classList.contains('dark')) html.classList.add('dark');
         else if (isLightOrAuto && !html.classList.contains('light')) html.classList.add('light');
+
+        window.addEventListener('load', () => {
+            setTimeout(() => {
+                document.getElementById('loading-screen').style.display = 'none';
+                document.getElementById('main-content').style.display = 'block';
+            }, 2000);
+        });
     </script>
 
     <!-- CSS Preline -->
     <link rel="stylesheet" href="https://preline.co/assets/css/main.min.css">
 </head>
 
-<body class="dark:bg-neutral-900">
+<body
+    class="dark:bg-neutral-900 max-h-[400px] overflow-y-auto [&::-webkit-scrollbar]:w-2 [&::-webkit-scrollbar-track]:rounded-full [&::-webkit-scrollbar-track]:bg-white-100 [&::-webkit-scrollbar-thumb]:rounded-full [&::-webkit-scrollbar-thumb]:bg-white-300 dark:[&::-webkit-scrollbar-track]:bg-black-700 dark:[&::-webkit-scrollbar-thumb]:bg-black-500">
+
+    <!-- ========== LOADING SPINNER ========== -->
+    <div id="loading-screen" class="fixed inset-0 bg-white flex items-center justify-center z-50">
+        <div class="flex flex-col items-center">
+            <div class="border-t-4 border-b-4 border-gray-500 border-solid rounded-full w-12 h-12 animate-spin"></div>
+            <div class="text-gray-700 text-xl mt-4">Loading...</div>
+        </div>
+    </div>
+    <!-- ========== END LOADING SPINNER ========== -->
+
     <!-- ========== HEADER ========== -->
     <header class="sticky top-0 inset-x-0 flex flex-wrap md:justify-start md:flex-nowrap z-50 w-full text-sm">
         <nav
@@ -131,16 +149,15 @@
             <div class="flex items-center gap-x-3">
                 <div class="shrink-0">
                     <img class="shrink-0 size-16 rounded-full"
-                        src="https://images.unsplash.com/photo-1510706019500-d23a509eecd4?q=80&w=2667&auto=format&fit=facearea&facepad=3&w=320&h=320&q=80&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D"
-                        alt="Avatar">
+                        src="https://ucarecdn.com/3433856a-4345-4ee4-8412-77f10d037a4a/avatarcrop.png" alt="Avatar">
                 </div>
 
                 <div class="grow">
                     <h1 class="text-lg font-medium text-gray-800 dark:text-neutral-200">
-                        Eliana Garcia
+                        Arlan Tri Handika
                     </h1>
                     <p class="text-sm text-gray-600 dark:text-neutral-400">
-                        Graphic Designer, Web designer/developer
+                        Web Developer
                     </p>
                 </div>
             </div>
@@ -149,59 +166,105 @@
             <!-- About -->
             <div class="mt-8">
                 <p class="text-sm text-gray-600 dark:text-neutral-400">
-                    I am a seasoned graphic designer with over 14 years of experience in creating visually appealing and
-                    user-centric designs. My expertise spans across UI design, design systems, and custom illustrations,
-                    helping clients bring their digital visions to life.
+                    Lorem ipsum dolor sit amet consectetur adipisicing elit. Ex odio eum dolorem, doloribus dolor
+                    necessitatibus velit sequi ipsum. Iure laborum itaque odio esse ducimus perspiciatis sint ab porro
+                    vel modi!
                 </p>
 
                 <p class="mt-3 text-sm text-gray-600 dark:text-neutral-400">
-                    Currently, I work remotely for Notion, where I design template UIs, convert them into HTML and CSS,
-                    and provide comprehensive support to our users. I am passionate about crafting elegant and
-                    functional designs that enhance user experiences.
+                    Lorem ipsum dolor sit amet consectetur adipisicing elit. Sunt, culpa quia aperiam itaque architecto
+                    provident sapiente voluptatem dignissimos, incidunt laborum iure, possimus labore sequi aliquam
+                    voluptas voluptate doloribus fuga et.
                 </p>
 
-                <ul class="mt-5 flex flex-col gap-y-3">
-                    <li class="flex items-center gap-x-2.5">
-                        <svg class="shrink-0 size-3.5" xmlns="http://www.w3.org/2000/svg" width="24" height="24"
-                            viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2"
-                            stroke-linecap="round" stroke-linejoin="round">
-                            <rect width="20" height="16" x="2" y="4" rx="2" />
-                            <path d="m22 7-8.97 5.7a1.94 1.94 0 0 1-2.06 0L2 7" />
-                        </svg>
-                        <a class="text-[13px] text-gray-500 underline hover:text-gray-800 hover:decoration-2 focus:outline-none focus:decoration-2 dark:text-neutral-500 dark:hover:text-neutral-400"
-                            href="#">
-                            elianagarcia997@about.me
-                        </a>
-                    </li>
+                <div class="flex flex-wrap max-w-4xl mx-auto mt-3">
+                    <!-- Kumpulan Kiri -->
+                    <ul class="flex flex-col gap-y-2 w-full sm:w-1/2 mb-2 pr-2">
+                        <li class="flex items-center gap-x-2.5">
+                            <svg class="shrink-0 size-3.5" xmlns="http://www.w3.org/2000/svg" width="24" height="24"
+                                viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2"
+                                stroke-linecap="round" stroke-linejoin="round">
+                                <rect width="20" height="16" x="2" y="4" rx="2" />
+                                <path d="m22 7-8.97 5.7a1.94 1.94 0 0 1-2.06 0L2 7" />
+                            </svg>
+                            <a target="_blank"
+                                class="text-[13px] text-gray-500 underline hover:text-gray-800 hover:decoration-2 focus:outline-none focus:decoration-2 dark:text-neutral-500 dark:hover:text-neutral-400"
+                                href="mailto:handikaarlan@gmail.com">
+                                handikaarlan@gmail.com
+                            </a>
+                        </li>
 
-                    <li class="flex items-center gap-x-2.5">
-                        <svg class="shrink-0 size-3.5" width="24" height="24" viewBox="0 0 24 24" fill="none"
-                            xmlns="http://www.w3.org/2000/svg">
-                            <path
-                                d="M14.1881 10.1624L22.7504 0H20.7214L13.2868 8.82385L7.34878 0H0.5L9.47944 13.3432L0.5 24H2.5291L10.3802 14.6817L16.6512 24H23.5L14.1881 10.1624ZM11.409 13.4608L3.26021 1.55962H6.37679L20.7224 22.5113H17.6058L11.409 13.4613V13.4608Z"
-                                fill="currentColor" />
-                        </svg>
-                        <a class="text-[13px] text-gray-500 underline hover:text-gray-800 hover:decoration-2 focus:outline-none focus:decoration-2 dark:text-neutral-500 dark:hover:text-neutral-400"
-                            href="#">
-                            @elianagarcia997
-                        </a>
-                    </li>
+                        <li class="flex items-center gap-x-2.5">
+                            <img class="shrink-0 size-3.5" height="16" width="16" x="0px" y="0px" viewBox="0 0 28 28"
+                                src="https://img.icons8.com/?size=100&id=FOEqu0B3Z17A&format=png&color=000000" alt="">
+                            <a target="_blank"
+                                class="text-[13px] text-gray-500 underline hover:text-gray-800 hover:decoration-2 focus:outline-none focus:decoration-2 dark:text-neutral-500 dark:hover:text-neutral-400"
+                                href="https://github.com/handikatriarlan">
+                                handikatriarlan
+                            </a>
+                        </li>
 
-                    <li class="flex items-center gap-x-2.5">
-                        <svg class="shrink-0 size-3.5" xmlns="http://www.w3.org/2000/svg" width="24" height="24"
-                            viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2"
-                            stroke-linecap="round" stroke-linejoin="round">
-                            <circle cx="12" cy="12" r="10" />
-                            <path d="M19.13 5.09C15.22 9.14 10 10.44 2.25 10.94" />
-                            <path d="M21.75 12.84c-6.62-1.41-12.14 1-16.38 6.32" />
-                            <path d="M8.56 2.75c4.37 6 6 9.42 8 17.72" />
-                        </svg>
-                        <a class="text-[13px] text-gray-500 underline hover:text-gray-800 hover:decoration-2 focus:outline-none focus:decoration-2 dark:text-neutral-500 dark:hover:text-neutral-400"
-                            href="#">
-                            @elianagarcia997
-                        </a>
-                    </li>
-                </ul>
+                        <li class="flex items-center gap-x-2.5">
+                            <svg class="shrink-0 size-3.5" xmlns="http://www.w3.org/2000/svg" x="0px" y="0px" width="24"
+                                height="24" viewBox="0 0 50 50">
+                                <path
+                                    d="M 8 3.0117188 C 6.3126093 3.0117188 4.8354789 3.4916328 3.7539062 4.3652344 C 2.6723337 5.238836 2.0117188 6.533218 2.0117188 7.9472656 C 2.0117188 10.690836 4.4687078 12.814467 7.7167969 12.941406 A 0.98809878 0.98809878 0 0 0 8 12.988281 C 9.753566 12.988281 11.246191 12.474267 12.3125 11.564453 C 13.378809 10.654639 13.988281 9.3429353 13.988281 7.9472656 A 0.98809878 0.98809878 0 0 0 13.986328 7.8925781 C 13.832307 5.1316834 11.374781 3.0117187 8 3.0117188 z M 8 4.9882812 C 10.60907 4.9882812 11.895883 6.2693448 12.005859 7.9726562 C 11.998759 8.8049335 11.676559 9.5118991 11.03125 10.0625 C 10.378809 10.619186 9.371434 11.011719 8 11.011719 C 5.3980542 11.011719 3.9882813 9.5991704 3.9882812 7.9472656 C 3.9882812 7.1213132 4.3276663 6.4422421 4.9960938 5.9023438 C 5.6645211 5.3624454 6.6873907 4.9882813 8 4.9882812 z M 3 15 A 1.0001 1.0001 0 0 0 2 16 L 2 45 A 1.0001 1.0001 0 0 0 3 46 L 13 46 A 1.0001 1.0001 0 0 0 14 45 L 14 35.664062 L 14 16 A 1.0001 1.0001 0 0 0 13 15 L 3 15 z M 18 15 A 1.0001 1.0001 0 0 0 17 16 L 17 45 A 1.0001 1.0001 0 0 0 18 46 L 28 46 A 1.0001 1.0001 0 0 0 29 45 L 29 29 L 29 28.75 L 29 28.5 C 29 26.555577 30.555577 25 32.5 25 C 34.444423 25 36 26.555577 36 28.5 L 36 45 A 1.0001 1.0001 0 0 0 37 46 L 47 46 A 1.0001 1.0001 0 0 0 48 45 L 48 28 C 48 23.873476 46.787888 20.604454 44.744141 18.375 C 42.700394 16.145546 39.849212 15 36.787109 15 C 32.882872 15 30.521631 16.426076 29 17.601562 L 29 16 A 1.0001 1.0001 0 0 0 28 15 L 18 15 z M 4 17 L 12 17 L 12 35.664062 L 12 44 L 4 44 L 4 17 z M 19 17 L 27 17 L 27 19.638672 A 1.0001 1.0001 0 0 0 28.744141 20.306641 C 28.744141 20.306641 31.709841 17 36.787109 17 C 39.360007 17 41.615528 17.922268 43.269531 19.726562 C 44.923534 21.530858 46 24.261524 46 28 L 46 44 L 38 44 L 38 28.5 A 1.0001 1.0001 0 0 0 37.916016 28.089844 C 37.694061 25.26411 35.38033 23 32.5 23 C 29.474423 23 27 25.474423 27 28.5 L 27 28.75 L 27 29 L 27 44 L 19 44 L 19 17 z">
+                                </path>
+                            </svg>
+                            <a target="_blank"
+                                class="text-[13px] text-gray-500 underline hover:text-gray-800 hover:decoration-2 focus:outline-none focus:decoration-2 dark:text-neutral-500 dark:hover:text-neutral-400"
+                                href="https://www.linkedin.com/in/arlantrihandika/">
+                                in/arlantrihandika
+                            </a>
+                        </li>
+                    </ul>
+
+                    <!-- Kumpulan Kanan -->
+                    <ul class="flex flex-col gap-y-2 w-full sm:w-1/2 pl-2">
+                        <li class="flex items-center gap-x-2.5">
+                            <svg class="shrink-0 size-3.5" width="24" height="24" viewBox="0 0 24 24" fill="none"
+                                xmlns="http://www.w3.org/2000/svg">
+                                <path
+                                    d="M14.1881 10.1624L22.7504 0H20.7214L13.2868 8.82385L7.34878 0H0.5L9.47944 13.3432L0.5 24H2.5291L10.3802 14.6817L16.6512 24H23.5L14.1881 10.1624ZM11.409 13.4608L3.26021 1.55962H6.37679L20.7224 22.5113H17.6058L11.409 13.4613V13.4608Z"
+                                    fill="currentColor" />
+                            </svg>
+                            <a target="_blank"
+                                class="text-[13px] text-gray-500 underline hover:text-gray-800 hover:decoration-2 focus:outline-none focus:decoration-2 dark:text-neutral-500 dark:hover:text-neutral-400"
+                                href="https://x.com/handikatriarlan">
+                                @handikatriarlan
+                            </a>
+                        </li>
+
+                        <li class="flex items-center gap-x-2.5">
+                            <svg class="shrink-0 size-3.5" xmlns="http://www.w3.org/2000/svg" x="0px" y="0px" width="24"
+                                height="24" viewBox="0 0 26 26">
+                                <path
+                                    d="M 7.546875 0 C 3.390625 0 0 3.390625 0 7.546875 L 0 18.453125 C 0 22.609375 3.390625 26 7.546875 26 L 18.453125 26 C 22.609375 26 26 22.609375 26 18.453125 L 26 7.546875 C 26 3.390625 22.609375 0 18.453125 0 Z M 7.546875 2 L 18.453125 2 C 21.527344 2 24 4.46875 24 7.546875 L 24 18.453125 C 24 21.527344 21.53125 24 18.453125 24 L 7.546875 24 C 4.472656 24 2 21.53125 2 18.453125 L 2 7.546875 C 2 4.472656 4.46875 2 7.546875 2 Z M 20.5 4 C 19.671875 4 19 4.671875 19 5.5 C 19 6.328125 19.671875 7 20.5 7 C 21.328125 7 22 6.328125 22 5.5 C 22 4.671875 21.328125 4 20.5 4 Z M 13 6 C 9.144531 6 6 9.144531 6 13 C 6 16.855469 9.144531 20 13 20 C 16.855469 20 20 16.855469 20 13 C 20 9.144531 16.855469 6 13 6 Z M 13 8 C 15.773438 8 18 10.226563 18 13 C 18 15.773438 15.773438 18 13 18 C 10.226563 18 8 15.773438 8 13 C 8 10.226563 10.226563 8 13 8 Z">
+                                </path>
+                            </svg>
+                            <a target="_blank"
+                                class="text-[13px] text-gray-500 underline hover:text-gray-800 hover:decoration-2 focus:outline-none focus:decoration-2 dark:text-neutral-500 dark:hover:text-neutral-400"
+                                href="https://www.instagram.com/handikatriarlan/">
+                                @handikatriarlan
+                            </a>
+                        </li>
+
+                        <li class="flex items-center gap-x-2.5">
+                            <svg class="shrink-0 size-3.5" xmlns="http://www.w3.org/2000/svg" x="0px" y="0px" width="24"
+                                height="24" viewBox="0 0 28 28">
+                                <path
+                                    d="M7 8c2.757 0 5 2.243 5 5s-2.243 5-5 5-5-2.243-5-5S4.243 8 7 8M7 6c-3.866 0-7 3.134-7 7s3.134 7 7 7 7-3.134 7-7S10.866 6 7 6L7 6zM18 8.693c.409.582 1 2.081 1 4.307s-.591 3.725-1 4.307c-.409-.582-1-2.081-1-4.307S17.591 9.275 18 8.693M18 6.5c-1.657 0-3 2.91-3 6.5s1.343 6.5 3 6.5 3-2.91 3-6.5S19.657 6.5 18 6.5L18 6.5zM23 8A1 5 0 1023 18 1 5 0 1023 8z">
+                                </path>
+                            </svg>
+                            <a target="_blank"
+                                class="text-[13px] text-gray-500 underline hover:text-gray-800 hover:decoration-2 focus:outline-none focus:decoration-2 dark:text-neutral-500 dark:hover:text-neutral-400"
+                                href="https://medium.com/@handikatriarlan">
+                                @handikatriarlan
+                            </a>
+                        </li>
+                    </ul>
+                </div>
+
             </div>
             <!-- End About -->
 
@@ -213,130 +276,143 @@
 
                 <!-- Image Grid -->
                 <div class="grid grid-cols-2 sm:grid-cols-3 gap-2">
-                    <a class="group block relative overflow-hidden rounded-lg" href="#">
+                    <div class="group block relative overflow-hidden rounded-lg" href="#">
                         <img class="w-full size-40 object-cover bg-gray-100 rounded-lg dark:bg-neutral-800"
                             src="https://images.unsplash.com/photo-1656618724305-a4257e46e847?q=80&w=320&auto=format&fit=crop&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D"
                             alt="Project">
                         <div class="absolute bottom-1 end-1 opacity-0 group-hover:opacity-100 transition">
-                            <div
-                                class="flex items-center gap-x-1 py-1 px-2 bg-white border border-gray-200 text-gray-800 rounded-lg dark:bg-neutral-900 dark:border-neutral-700 dark:text-neutral-200">
-                                <svg class="shrink-0 size-3" xmlns="http://www.w3.org/2000/svg" width="24" height="24"
-                                    viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2"
-                                    stroke-linecap="round" stroke-linejoin="round">
-                                    <circle cx="11" cy="11" r="8" />
-                                    <path d="m21 21-4.3-4.3" />
-                                </svg>
-                                <span class="text-xs">View</span>
-                            </div>
+                            <a class="group block relative overflow-hidden rounded-lg" href="#">
+                                <div
+                                    class="flex items-center gap-x-1 py-1 px-2 bg-white border border-gray-200 text-gray-800 rounded-lg dark:bg-neutral-900 dark:border-neutral-700 dark:text-neutral-200">
+                                    <svg class="shrink-0 size-3" xmlns="http://www.w3.org/2000/svg" width="24"
+                                        height="24" viewBox="0 0 24 24" fill="none" stroke="currentColor"
+                                        stroke-width="2" stroke-linecap="round" stroke-linejoin="round">
+                                        <circle cx="11" cy="11" r="8" />
+                                        <path d="m21 21-4.3-4.3" />
+                                    </svg>
+                                    <span class="text-xs">View</span>
+                                </div>
+                            </a>
                         </div>
-                    </a>
+                    </div>
 
-                    <a class="group block relative overflow-hidden rounded-lg" href="#">
+                    <div class="group block relative overflow-hidden rounded-lg" href="#">
                         <img class="w-full size-40 object-cover bg-gray-100 rounded-lg dark:bg-neutral-800"
-                            src="https://images.unsplash.com/photo-1616427592793-67b858804534?q=80&w=320&auto=format&fit=crop&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D"
+                            src="https://images.unsplash.com/photo-1656618724305-a4257e46e847?q=80&w=320&auto=format&fit=crop&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D"
                             alt="Project">
                         <div class="absolute bottom-1 end-1 opacity-0 group-hover:opacity-100 transition">
-                            <div
-                                class="flex items-center gap-x-1 py-1 px-2 bg-white border border-gray-200 text-gray-800 rounded-lg dark:bg-neutral-900 dark:border-neutral-700 dark:text-neutral-200">
-                                <svg class="shrink-0 size-3" xmlns="http://www.w3.org/2000/svg" width="24" height="24"
-                                    viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2"
-                                    stroke-linecap="round" stroke-linejoin="round">
-                                    <circle cx="11" cy="11" r="8" />
-                                    <path d="m21 21-4.3-4.3" />
-                                </svg>
-                                <span class="text-xs">View</span>
-                            </div>
+                            <a class="group block relative overflow-hidden rounded-lg" href="#">
+                                <div
+                                    class="flex items-center gap-x-1 py-1 px-2 bg-white border border-gray-200 text-gray-800 rounded-lg dark:bg-neutral-900 dark:border-neutral-700 dark:text-neutral-200">
+                                    <svg class="shrink-0 size-3" xmlns="http://www.w3.org/2000/svg" width="24"
+                                        height="24" viewBox="0 0 24 24" fill="none" stroke="currentColor"
+                                        stroke-width="2" stroke-linecap="round" stroke-linejoin="round">
+                                        <circle cx="11" cy="11" r="8" />
+                                        <path d="m21 21-4.3-4.3" />
+                                    </svg>
+                                    <span class="text-xs">View</span>
+                                </div>
+                            </a>
                         </div>
-                    </a>
+                    </div>
 
-                    <a class="group block relative overflow-hidden rounded-lg" href="#">
+                    <div class="group block relative overflow-hidden rounded-lg" href="#">
                         <img class="w-full size-40 object-cover bg-gray-100 rounded-lg dark:bg-neutral-800"
-                            src="https://images.unsplash.com/photo-1516131206008-dd041a9764fd?q=80&w=320&auto=format&fit=crop&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D"
+                            src="https://images.unsplash.com/photo-1656618724305-a4257e46e847?q=80&w=320&auto=format&fit=crop&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D"
                             alt="Project">
                         <div class="absolute bottom-1 end-1 opacity-0 group-hover:opacity-100 transition">
-                            <div
-                                class="flex items-center gap-x-1 py-1 px-2 bg-white border border-gray-200 text-gray-800 rounded-lg dark:bg-neutral-900 dark:border-neutral-700 dark:text-neutral-200">
-                                <svg class="shrink-0 size-3" xmlns="http://www.w3.org/2000/svg" width="24" height="24"
-                                    viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2"
-                                    stroke-linecap="round" stroke-linejoin="round">
-                                    <circle cx="11" cy="11" r="8" />
-                                    <path d="m21 21-4.3-4.3" />
-                                </svg>
-                                <span class="text-xs">View</span>
-                            </div>
+                            <a class="group block relative overflow-hidden rounded-lg" href="#">
+                                <div
+                                    class="flex items-center gap-x-1 py-1 px-2 bg-white border border-gray-200 text-gray-800 rounded-lg dark:bg-neutral-900 dark:border-neutral-700 dark:text-neutral-200">
+                                    <svg class="shrink-0 size-3" xmlns="http://www.w3.org/2000/svg" width="24"
+                                        height="24" viewBox="0 0 24 24" fill="none" stroke="currentColor"
+                                        stroke-width="2" stroke-linecap="round" stroke-linejoin="round">
+                                        <circle cx="11" cy="11" r="8" />
+                                        <path d="m21 21-4.3-4.3" />
+                                    </svg>
+                                    <span class="text-xs">View</span>
+                                </div>
+                            </a>
                         </div>
-                    </a>
+                    </div>
 
-                    <a class="group block relative overflow-hidden rounded-lg" href="#">
+                    <div class="group block relative overflow-hidden rounded-lg" href="#">
                         <img class="w-full size-40 object-cover bg-gray-100 rounded-lg dark:bg-neutral-800"
-                            src="https://images.unsplash.com/photo-1707760696486-2a2cd7e0b6a6?q=80&w=320&auto=format&fit=crop&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D"
+                            src="https://images.unsplash.com/photo-1656618724305-a4257e46e847?q=80&w=320&auto=format&fit=crop&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D"
                             alt="Project">
                         <div class="absolute bottom-1 end-1 opacity-0 group-hover:opacity-100 transition">
-                            <div
-                                class="flex items-center gap-x-1 py-1 px-2 bg-white border border-gray-200 text-gray-800 rounded-lg dark:bg-neutral-900 dark:border-neutral-700 dark:text-neutral-200">
-                                <svg class="shrink-0 size-3" xmlns="http://www.w3.org/2000/svg" width="24" height="24"
-                                    viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2"
-                                    stroke-linecap="round" stroke-linejoin="round">
-                                    <circle cx="11" cy="11" r="8" />
-                                    <path d="m21 21-4.3-4.3" />
-                                </svg>
-                                <span class="text-xs">View</span>
-                            </div>
+                            <a class="group block relative overflow-hidden rounded-lg" href="#">
+                                <div
+                                    class="flex items-center gap-x-1 py-1 px-2 bg-white border border-gray-200 text-gray-800 rounded-lg dark:bg-neutral-900 dark:border-neutral-700 dark:text-neutral-200">
+                                    <svg class="shrink-0 size-3" xmlns="http://www.w3.org/2000/svg" width="24"
+                                        height="24" viewBox="0 0 24 24" fill="none" stroke="currentColor"
+                                        stroke-width="2" stroke-linecap="round" stroke-linejoin="round">
+                                        <circle cx="11" cy="11" r="8" />
+                                        <path d="m21 21-4.3-4.3" />
+                                    </svg>
+                                    <span class="text-xs">View</span>
+                                </div>
+                            </a>
                         </div>
-                    </a>
+                    </div>
 
-                    <a class="group block relative overflow-hidden rounded-lg" href="#">
+                    <div class="group block relative overflow-hidden rounded-lg" href="#">
                         <img class="w-full size-40 object-cover bg-gray-100 rounded-lg dark:bg-neutral-800"
-                            src="https://images.unsplash.com/photo-1585159812596-fac104f2f069?q=80&w=320&auto=format&fit=crop&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D"
+                            src="https://images.unsplash.com/photo-1656618724305-a4257e46e847?q=80&w=320&auto=format&fit=crop&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D"
                             alt="Project">
                         <div class="absolute bottom-1 end-1 opacity-0 group-hover:opacity-100 transition">
-                            <div
-                                class="flex items-center gap-x-1 py-1 px-2 bg-white border border-gray-200 text-gray-800 rounded-lg dark:bg-neutral-900 dark:border-neutral-700 dark:text-neutral-200">
-                                <svg class="shrink-0 size-3" xmlns="http://www.w3.org/2000/svg" width="24" height="24"
-                                    viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2"
-                                    stroke-linecap="round" stroke-linejoin="round">
-                                    <circle cx="11" cy="11" r="8" />
-                                    <path d="m21 21-4.3-4.3" />
-                                </svg>
-                                <span class="text-xs">View</span>
-                            </div>
+                            <a class="group block relative overflow-hidden rounded-lg" href="#">
+                                <div
+                                    class="flex items-center gap-x-1 py-1 px-2 bg-white border border-gray-200 text-gray-800 rounded-lg dark:bg-neutral-900 dark:border-neutral-700 dark:text-neutral-200">
+                                    <svg class="shrink-0 size-3" xmlns="http://www.w3.org/2000/svg" width="24"
+                                        height="24" viewBox="0 0 24 24" fill="none" stroke="currentColor"
+                                        stroke-width="2" stroke-linecap="round" stroke-linejoin="round">
+                                        <circle cx="11" cy="11" r="8" />
+                                        <path d="m21 21-4.3-4.3" />
+                                    </svg>
+                                    <span class="text-xs">View</span>
+                                </div>
+                            </a>
                         </div>
-                    </a>
+                    </div>
 
-                    <a class="group block relative overflow-hidden rounded-lg" href="#">
+                    <div class="group block relative overflow-hidden rounded-lg" href="#">
                         <img class="w-full size-40 object-cover bg-gray-100 rounded-lg dark:bg-neutral-800"
-                            src="https://images.unsplash.com/photo-1654131300276-db70adf4f85d?q=80&w=320&auto=format&fit=crop&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D"
+                            src="https://images.unsplash.com/photo-1656618724305-a4257e46e847?q=80&w=320&auto=format&fit=crop&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D"
                             alt="Project">
                         <div class="absolute bottom-1 end-1 opacity-0 group-hover:opacity-100 transition">
-                            <div
-                                class="flex items-center gap-x-1 py-1 px-2 bg-white border border-gray-200 text-gray-800 rounded-lg dark:bg-neutral-900 dark:border-neutral-700 dark:text-neutral-200">
-                                <svg class="shrink-0 size-3" xmlns="http://www.w3.org/2000/svg" width="24" height="24"
-                                    viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2"
-                                    stroke-linecap="round" stroke-linejoin="round">
-                                    <circle cx="11" cy="11" r="8" />
-                                    <path d="m21 21-4.3-4.3" />
-                                </svg>
-                                <span class="text-xs">View</span>
-                            </div>
+                            <a class="group block relative overflow-hidden rounded-lg" href="#">
+                                <div
+                                    class="flex items-center gap-x-1 py-1 px-2 bg-white border border-gray-200 text-gray-800 rounded-lg dark:bg-neutral-900 dark:border-neutral-700 dark:text-neutral-200">
+                                    <svg class="shrink-0 size-3" xmlns="http://www.w3.org/2000/svg" width="24"
+                                        height="24" viewBox="0 0 24 24" fill="none" stroke="currentColor"
+                                        stroke-width="2" stroke-linecap="round" stroke-linejoin="round">
+                                        <circle cx="11" cy="11" r="8" />
+                                        <path d="m21 21-4.3-4.3" />
+                                    </svg>
+                                    <span class="text-xs">View</span>
+                                </div>
+                            </a>
                         </div>
-                    </a>
+                    </div>
+
                 </div>
                 <!-- End Image Grid -->
             </div>
             <!-- End Projects -->
 
             <!-- Testimonials -->
-            <div class="mt-10 sm:mt-14">
+            <!-- <div class="mt-10 sm:mt-14">
                 <h2 class="mb-3 font-medium text-gray-800 dark:text-neutral-200">
                     Testimonials
-                </h2>
+                </h2> -->
 
-                <!-- Grid -->
-                <div
+            <!-- Grid -->
+            <!-- <div
                     class="grid grid-cols-1 sm:grid-cols-2 gap-x-3 border-y border-gray-200 divide-y sm:divide-y-0 sm:divide-x divide-gray-200 dark:border-neutral-700 dark:divide-neutral-700">
-                    <div class="sm:-ms-4 py-6 sm:px-4">
-                        <!-- Review -->
-                        <blockquote>
+                    <div class="sm:-ms-4 py-6 sm:px-4"> -->
+            <!-- Review -->
+            <!-- <blockquote>
                             <span class="text-sm text-gray-800 dark:text-neutral-200">I'm absolutely floored by the
                                 level of care and attention to detail Eliana has put into this project and for one can
                                 guarantee that we will be a return customer.</span>
@@ -351,13 +427,13 @@
                                     </div>
                                 </div>
                             </footer>
-                        </blockquote>
-                        <!-- End Review -->
-                    </div>
+                        </blockquote> -->
+            <!-- End Review -->
+            <!-- </div>
 
-                    <div class="py-6 sm:px-4">
-                        <!-- Review -->
-                        <blockquote>
+                    <div class="py-6 sm:px-4"> -->
+            <!-- Review -->
+            <!-- <blockquote>
                             <span class="text-sm text-gray-800 dark:text-neutral-200">To say that hiring Eliana has been
                                 life-changing is an understatement. My business has tripled and I got my life
                                 back.</span>
@@ -372,12 +448,12 @@
                                     </div>
                                 </div>
                             </footer>
-                        </blockquote>
-                        <!-- End Review -->
-                    </div>
-                </div>
-                <!-- End Grid -->
-            </div>
+                        </blockquote> -->
+            <!-- End Review -->
+            <!-- </div>
+                </div> -->
+            <!-- End Grid -->
+            <!-- </div> -->
             <!-- End Testimonials -->
 
             <!-- Skills -->
@@ -952,13 +1028,13 @@
             <!-- End Education -->
 
             <!-- Articles -->
-            <div class="my-10 sm:my-14">
+            <!-- <div class="my-10 sm:my-14">
                 <h2 class="mb-5 font-medium text-gray-800 dark:text-neutral-200">
                     Articles
-                </h2>
+                </h2> -->
 
-                <!-- List -->
-                <ul class="space-y-10">
+            <!-- List -->
+            <!-- <ul class="space-y-10">
                     <li>
                         <p class="mb-2 text-sm text-gray-500 dark:text-neutral-500">
                             2024
@@ -1013,15 +1089,15 @@
                             </a>
                         </p>
                     </li>
-                </ul>
-                <!-- End List -->
-            </div>
+                </ul> -->
+            <!-- End List -->
+            <!-- </div> -->
             <!-- End Articles -->
 
             <!-- Subscribe -->
             <div class="my-10 sm:my-14">
                 <h2 class="mb-5 font-medium text-gray-800 dark:text-neutral-200">
-                    Subscribe
+                    Contact Me
                 </h2>
 
                 <!-- Input -->
@@ -1045,7 +1121,7 @@
                         </div>
                         <a class="w-full sm:w-auto whitespace-nowrap py-2 px-2.5 inline-flex justify-center items-center gap-x-2 text-sm font-semibold rounded-md border border-transparent bg-gray-800 text-white hover:bg-gray-900 focus:outline-none focus:bg-blue-700 disabled:opacity-50 disabled:pointer-events-none dark:bg-white dark:text-neutral-800 dark:hover:bg-neutral-200"
                             href="#">
-                            Join
+                            Send
                             <svg class="shrink-0 size-3.5" xmlns="http://www.w3.org/2000/svg" width="24" height="24"
                                 viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2"
                                 stroke-linecap="round" stroke-linejoin="round">
@@ -1068,39 +1144,27 @@
     <!-- ========== FOOTER ========== -->
     <footer class="w-full max-w-2xl mx-auto px-4 sm:px-6 lg:px-8">
         <div class="py-6 border-t border-gray-200 dark:border-neutral-700">
-            <div class="flex flex-wrap justify-between items-center gap-2">
+            <div class="flex flex-wrap justify-center items-center gap-2">
                 <div>
-                    <p class="text-xs text-gray-600 dark:text-neutral-400">
-                        © 2024 Preline Labs.
+                    <p class="text-xs text-gray-600 text-center dark:text-neutral-400">
+                        Created by: Preline Labs. & Edited by: Arlan
+                    </p>
+                    <p class="text-xs text-gray-600 text-center dark:text-neutral-400">
+                        &copy; 2024
                     </p>
                 </div>
                 <!-- End Col -->
 
                 <!-- List -->
-                <ul class="flex flex-wrap items-center">
-                    <li
-                        class="inline-block relative pe-4 text-xs last:pe-0 last-of-type:before:hidden before:absolute before:top-1/2 before:end-1.5 before:-translate-y-1/2 before:size-[3px] before:rounded-full before:bg-gray-400 dark:text-neutral-500 dark:before:bg-neutral-600">
-                        <a class="text-xs text-gray-500 underline hover:text-gray-800 hover:decoration-2 focus:outline-none focus:decoration-2 dark:text-neutral-500 dark:hover:text-neutral-400"
-                            href="#">
-                            X (Twitter)
-                        </a>
-                    </li>
-                    <li
-                        class="inline-block relative pe-4 text-xs last:pe-0 last-of-type:before:hidden before:absolute before:top-1/2 before:end-1.5 before:-translate-y-1/2 before:size-[3px] before:rounded-full before:bg-gray-400 dark:text-neutral-500 dark:before:bg-neutral-600">
-                        <a class="text-xs text-gray-500 underline hover:text-gray-800 hover:decoration-2 focus:outline-none focus:decoration-2 dark:text-neutral-500 dark:hover:text-neutral-400"
-                            href="#">
-                            Dribbble
-                        </a>
-                    </li>
+                <!-- <ul class="flex flex-wrap items-center">
                     <li class="inline-block pe-4 text-xs">
-                        <a class="text-xs text-gray-500 underline hover:text-gray-800 hover:decoration-2 focus:outline-none focus:decoration-2 dark:text-neutral-500 dark:hover:text-neutral-400"
-                            href="#">
-                            Github
-                        </a>
+                        <p class="text-xs text-gray-600 dark:text-neutral-400">
+                            August, 2024
+                        </p>
                     </li>
-                    <li class="inline-block">
+                    <li class="inline-block"> -->
                         <!-- Dark Mode -->
-                        <button type="button"
+                        <!-- <button type="button"
                             class="hs-dark-mode hs-dark-mode-active:hidden relative flex justify-center items-center size-7 border border-gray-200 text-gray-500 rounded-full hover:bg-gray-200 focus:outline-none focus:bg-gray-200 dark:border-neutral-700 dark:text-neutral-400 dark:hover:bg-neutral-700 dark:focus:bg-neutral-700"
                             data-hs-theme-click-value="dark">
                             <span class="sr-only">Dark</span>
@@ -1127,10 +1191,10 @@
                                 <path d="m6.34 17.66-1.41 1.41"></path>
                                 <path d="m19.07 4.93-1.41 1.41"></path>
                             </svg>
-                        </button>
+                        </button> -->
                         <!-- End Dark Mode -->
-                    </li>
-                </ul>
+                    <!-- </li>
+                </ul> -->
                 <!-- End List -->
             </div>
         </div>
