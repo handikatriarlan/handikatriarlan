@@ -40,14 +40,14 @@ I'm a third-year Information Systems student, diving deep into the world of soft
 
 <div align="center">
 
-| [<img height="180" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=handikatriarlan&layout=compact&theme=algolia" alt="handikatriarlan" />](https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=handikatriarlan&layout=compact&theme=algolia) | [<img height="180" src="https://github-readme-stats-eight-theta.vercel.app/api?username=handikatriarlan&show_icons=true&theme=algolia&include_all_commits=true&count_private=true" alt="handikatriarlan" />](https://github-readme-stats-eight-theta.vercel.app/api?username=handikatriarlan&show_icons=true&theme=algolia&include_all_commits=true&count_private=true) |
+| [<img height="180" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=handikatriarlan&layout=compact&theme=algolia&hide_border=true" alt="handikatriarlan" />](https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=handikatriarlan&layout=compact&theme=algolia&hide_border=true) | [<img height="180" src="https://github-readme-stats-eight-theta.vercel.app/api?username=handikatriarlan&show_icons=true&theme=algolia&include_all_commits=true&count_private=true&hide_border=true" alt="handikatriarlan" />](https://github-readme-stats-eight-theta.vercel.app/api?username=handikatriarlan&show_icons=true&theme=algolia&include_all_commits=true&count_private=true&hide_border=true) |
 |:--:|:--:|
 
 </div>
 
 <div align="center">
 
-| [<img height="180" src="https://github-readme-streak-stats.herokuapp.com/?user=handikatriarlan&theme=algolia" alt="handikatriarlan" />](https://github-readme-streak-stats.herokuapp.com/?user=handikatriarlan&theme=algolia) |
+| [<img height="180" src="https://github-readme-streak-stats.herokuapp.com/?user=handikatriarlan&theme=algolia&hide_border=true" alt="handikatriarlan" />](https://github-readme-streak-stats.herokuapp.com/?user=handikatriarlan&theme=algolia&hide_border=true) |
 |:--:|
 
 </div>
