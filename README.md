@@ -8,12 +8,15 @@
 
 <h3 align="center">Connect with me:</h3>
 <p align="center">
+    <a href="mailto:handikaarlan@gmail.com" target="blank"><img align="center"
+            src="https://img.icons8.com/?size=100&id=89362&format=png&color=000000" alt="handikaarlan@gmail.com"
+            alt="@handikatriarlan" height="45" width="45" /></a>
     <a href="https://instagram.com/handikatriarlan" target="blank"><img align="center"
             src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg"
             alt="handikatriarlan" height="30" width="40" /></a>
     <a href="https://linkedin.com/in/arlantrihandika" target="blank"><img align="center"
             src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg"
-            alt="handikatriarlan" height="30" width="40" /></a>
+            alt="arlantrihandika" height="30" width="40" /></a>
     <a href="https://fb.com/handikatriarlan" target="blank"><img align="center"
             src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg"
             alt="handikatriarlan" height="30" width="40" /></a>
