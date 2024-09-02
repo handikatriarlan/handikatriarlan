@@ -1,3 +1,5 @@
+<div align="center">
+
 # Hey there, I'm Arlan Tri Handika! 👋
 
 ### 🚀 Passionate Software Engineer | Tech Enthusiast from Indonesia
@@ -5,16 +7,18 @@ I'm a third-year Information Systems student, diving deep into the world of soft
 
 ![Profile Views](https://komarev.com/ghpvc/?username=handikatriarlan&label=Profile%20views&color=0e75b6&style=flat)
 ![Total time coded since Sept 2 2024](https://wakatime.com/badge/user/c6161591-fa13-42b0-8c76-77f5c030d063.svg)
+<br><br>
 
-### Connect with me:
+### 🌐 Connect with me:
 [<img align="center" src="https://img.icons8.com/?size=100&id=89362&format=png&color=000000" alt="Email" height="45" width="45" />](mailto:handikaarlan@gmail.com)
 [<img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="Instagram" height="30" width="40" />](https://instagram.com/handikatriarlan)
 [<img align="center" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg" alt="LinkedIn" height="30" width="40" />](https://linkedin.com/in/arlantrihandika)
 [<img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="Facebook" height="30" width="40" />](https://fb.com/handikatriarlan)
 [<img align="center" src="https://img.icons8.com/?size=100&id=ClbD5JTFM7FA&format=png&color=000000" alt="Twitter" height="40" width="40" />](https://twitter.com/handikatriarlan)
 [<img align="center" src="https://img.icons8.com/?size=100&id=kXpTR7n8QCEP&format=png&color=000000" alt="Medium" height="50" width="50" />](https://medium.com/@handikatriarlan)
+<br><br>
 
-### Languages & Tools:
+### 💻 Languages & Tools:
 [<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/html5/html5-original.svg" alt="HTML5" width="40"/>](https://www.w3.org/html/)
 [<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/css3/css3-original.svg" alt="CSS3" width="40"/>](https://www.w3schools.com/css/)
 [<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/javascript/javascript-original.svg" alt="JavaScript" width="40"/>](https://developer.mozilla.org/en-US/docs/Web/JavaScript)
@@ -30,8 +34,22 @@ I'm a third-year Information Systems student, diving deep into the world of soft
 [<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/vscode/vscode-original.svg" alt="VSCode" width="40"/>](https://code.visualstudio.com/)
 [<img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="Git" width="40"/>](https://git-scm.com/)
 [<img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" alt="Postman" width="40"/>](https://www.postman.com/)
+<br><br>
 
-[<img height="180" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=handikatriarlan&layout=compact&theme=algolia" alt="handikatriarlan" />](https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=handikatriarlan&layout=compact&theme=algolia)
-[<img height="180" src="https://github-readme-stats-eight-theta.vercel.app/api?username=handikatriarlan&show_icons=true&theme=algolia&include_all_commits=true&count_private=true" alt="handikatriarlan" />](https://github-readme-stats-eight-theta.vercel.app/api?username=handikatriarlan&show_icons=true&theme=algolia&include_all_commits=true&count_private=true)
-[<img height="180" src="https://github-readme-streak-stats.herokuapp.com/?user=handikatriarlan&theme=algolia" alt="handikatriarlan" />](https://github-readme-streak-stats.herokuapp.com/?user=handikatriarlan&theme=algolia)
+### 📊 My Github Public Stats:
 
+<div align="center">
+
+| [<img height="180" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=handikatriarlan&layout=compact&theme=algolia" alt="handikatriarlan" />](https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=handikatriarlan&layout=compact&theme=algolia) | [<img height="180" src="https://github-readme-stats-eight-theta.vercel.app/api?username=handikatriarlan&show_icons=true&theme=algolia&include_all_commits=true&count_private=true" alt="handikatriarlan" />](https://github-readme-stats-eight-theta.vercel.app/api?username=handikatriarlan&show_icons=true&theme=algolia&include_all_commits=true&count_private=true) |
+|:--:|:--:|
+
+</div>
+
+<div align="center">
+
+| [<img height="180" src="https://github-readme-streak-stats.herokuapp.com/?user=handikatriarlan&theme=algolia" alt="handikatriarlan" />](https://github-readme-streak-stats.herokuapp.com/?user=handikatriarlan&theme=algolia) |
+|:--:|
+
+</div>
+
+</div>
