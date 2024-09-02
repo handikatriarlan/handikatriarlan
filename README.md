@@ -76,7 +76,7 @@
 
 <p align="center">
     <img height="180"
-        src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=handikatriarlan&layout=compact&theme=algolia"
+        src="https://github-readme-stats.vercel.app/api/top-langs/?username=handikatriarlan&hide_progress=true&theme=algolia"
         alt="handikatriarlan" />
     <img height="180"
         src="https://github-readme-stats-eight-theta.vercel.app/api?username=handikatriarlan&show_icons=true&theme=algolia&include_all_commits=true&count_private=true"
