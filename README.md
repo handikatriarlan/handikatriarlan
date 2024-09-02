@@ -8,7 +8,7 @@
 
 <h3 align="center">Connect with me:</h3>
 <p align="center">
-    <a href="https://mailto:handikaarlan@gmail.com" target="blank"><img align="center"
+    <a href="mailto:handikaarlan@gmail.com" target="blank"><img align="center"
             src="https://img.icons8.com/?size=100&id=89362&format=png&color=000000"
             alt="handikaarlan@gmail.com" height="45" width="45" /></a>
     <a href="https://instagram.com/handikatriarlan" target="blank"><img align="center"
