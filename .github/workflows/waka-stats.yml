@@ -16,9 +16,10 @@ jobs:
           GH_TOKEN: ${{ secrets.GH_TOKEN }}
           COMMIT_BY_ME: "True"
           COMMIT_MESSAGE: '🪄 Auto Updates Readme file WakaTime Status'
-          HIDE: "storage,repositories,contributions,hiring,profileViews"
+          HIDE: "storage,repositories,contributions,hiring,profileViews,languages_summary"
           SHOW_TITLE: "False"
           SHOW_TIME: "False"
+          SHOW_COMMIT: "False"
           SHOW_PROFILE_VIEWS: "False"
           SHOW_SHORT_INFO: "False"
           SHOW_LANGUAGE: "True"
