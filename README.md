@@ -95,7 +95,7 @@ const arlan = {
 ## ⚡ Recent Activity
 
 <!--START_SECTION:activity-->
-1. 💪 Opened PR [#11](https://github.com/IMPHNEN/Ramadhan-Code-Fest-2025/pull/11) in [IMPHNEN/Ramadhan-Code-Fest-2025](https://github.com/IMPHNEN/Ramadhan-Code-Fest-2025)
+1. 💪 Opened PR [#20729](https://github.com/is-a-dev/register/pull/20729) in [is-a-dev/register](https://github.com/is-a-dev/register)
 <!--END_SECTION:activity-->
 
 <br>
