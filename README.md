@@ -63,7 +63,7 @@ const arlan = {
 ### DevOps & Tools
 
 <p align="center">
-    <img src="https://skillicons.dev/icons?i=git,github,githubactions,ubuntu,vercel,cloudflare,postman&theme=dark" />
+    <img src="https://skillicons.dev/icons?i=git,docker,githubactions,ubuntu,vercel,cloudflare,postman&theme=dark" />
 </p>
 
 <br>
