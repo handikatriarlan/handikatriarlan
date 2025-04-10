@@ -95,7 +95,7 @@ const arlan = {
 ## ⚡ Recent Activity
 
 <!--START_SECTION:activity-->
-1. 💪 Opened PR [#20831](https://github.com/is-a-dev/register/pull/20831) in [is-a-dev/register](https://github.com/is-a-dev/register)
+1. 🎉 Merged PR [#1](https://github.com/handikatriarlan/laravel-dockapi/pull/1) in [handikatriarlan/laravel-dockapi](https://github.com/handikatriarlan/laravel-dockapi)
 <!--END_SECTION:activity-->
 
 <br>
