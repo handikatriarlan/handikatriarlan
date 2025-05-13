@@ -95,7 +95,7 @@ const arlan = {
 ## ⚡ Recent Activity
 
 <!--START_SECTION:activity-->
-1. 💪 Opened PR [#65](https://github.com/QUICK-GCP-LAB/2-Minutes-Labs-Solutions/pull/65) in [QUICK-GCP-LAB/2-Minutes-Labs-Solutions](https://github.com/QUICK-GCP-LAB/2-Minutes-Labs-Solutions)
+1. 🎉 Merged PR [#4](https://github.com/handikatriarlan/taskflow/pull/4) in [handikatriarlan/taskflow](https://github.com/handikatriarlan/taskflow)
 <!--END_SECTION:activity-->
 
 <br>
