@@ -150,6 +150,9 @@ Windows                  17 hrs 3 mins       ██████████░�
 
 [![My Last.fm](https://lastfm-recently-played.vercel.app/api?user=Cozyeon&width=600&bg_color=050f2c)](https://www.last.fm/user/Cozyeon)
 
+## 💻 Live on Discord
+[![Discord Presence](https://lanyard.cnrad.dev/api/433946156511395841)](https://discord.com/users/433946156511395841)
+
 [![Footer](https://capsule-render.vercel.app/api?type=waving&color=050f2c&height=100&section=footer)](https://github.com/handikatriarlan)
 
 </div>
