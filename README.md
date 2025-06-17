@@ -95,7 +95,7 @@ const arlan = {
 ## ⚡ Recent Activity
 
 <!--START_SECTION:activity-->
-1. 🎉 Merged PR [#6](https://github.com/handikatriarlan/sistem-informasi-pendataan-alumni-be/pull/6) in [handikatriarlan/sistem-informasi-pendataan-alumni-be](https://github.com/handikatriarlan/sistem-informasi-pendataan-alumni-be)
+1. 🎉 Merged PR [#8](https://github.com/handikatriarlan/shoekeerman/pull/8) in [handikatriarlan/shoekeerman](https://github.com/handikatriarlan/shoekeerman)
 <!--END_SECTION:activity-->
 
 <br>
