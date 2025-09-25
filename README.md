@@ -95,7 +95,7 @@ const arlan = {
 ## ⚡ Recent Activity
 
 <!--START_SECTION:activity-->
-1. 🎉 Merged PR [#5](https://github.com/handikatriarlan/taskflow/pull/5) in [handikatriarlan/taskflow](https://github.com/handikatriarlan/taskflow)
+1. 🔒 Closed issue [#1](https://github.com/handikatriarlan/ezstock/issues/1) in [handikatriarlan/ezstock](https://github.com/handikatriarlan/ezstock)
 <!--END_SECTION:activity-->
 
 <br>
