@@ -95,7 +95,7 @@ const arlan = {
 ## ⚡ Recent Activity
 
 <!--START_SECTION:activity-->
-1. 🎉 Merged PR [#5](https://github.com/handikatriarlan/taskflow/pull/5) in [handikatriarlan/taskflow](https://github.com/handikatriarlan/taskflow)
+1. 🎉 Merged PR [#114](https://github.com/handikatriarlan/hello-world-in-every-language/pull/114) in [handikatriarlan/hello-world-in-every-language](https://github.com/handikatriarlan/hello-world-in-every-language)
 <!--END_SECTION:activity-->
 
 <br>
