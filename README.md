@@ -95,7 +95,7 @@ const arlan = {
 ## ⚡ Recent Activity
 
 <!--START_SECTION:activity-->
-1. 💪 Opened PR [#27448](https://github.com/is-a-dev/register/pull/27448) in [is-a-dev/register](https://github.com/is-a-dev/register)
+1. 💪 Opened PR [#27448](undefined) in [is-a-dev/register](https://github.com/is-a-dev/register)
 <!--END_SECTION:activity-->
 
 <br>
