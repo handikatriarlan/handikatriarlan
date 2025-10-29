@@ -95,7 +95,7 @@ const arlan = {
 ## ⚡ Recent Activity
 
 <!--START_SECTION:activity-->
-1. ❌ Labeled PR [#121](undefined) in [handikatriarlan/hello-world-in-every-language](https://github.com/handikatriarlan/hello-world-in-every-language)
+1. 🗣 Commented on [#122](https://github.com/handikatriarlan/hello-world-in-every-language/issues/122#issuecomment-3461648648) in [handikatriarlan/hello-world-in-every-language](https://github.com/handikatriarlan/hello-world-in-every-language)
 <!--END_SECTION:activity-->
 
 <br>
