@@ -69,7 +69,7 @@ const arlan = {
 ## ⚡ Recent Activity
 
 <!--START_SECTION:activity-->
-1. 💪 Opened PR [#162](undefined) in [ridholess/Halo-Dunia25](https://github.com/ridholess/Halo-Dunia25)
+1. ❌ Merged PR [#162](undefined) in [ridholess/Halo-Dunia25](https://github.com/ridholess/Halo-Dunia25)
 <!--END_SECTION:activity-->
 
 <br>
