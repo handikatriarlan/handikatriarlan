@@ -69,7 +69,7 @@ const arlan = {
 ## ⚡ Recent Activity
 
 <!--START_SECTION:activity-->
-1. ❌ Merged PR [#162](undefined) in [ridholess/Halo-Dunia25](https://github.com/ridholess/Halo-Dunia25)
+1. 🚀 Published release [TalkEase v1.0.0 (Preview)](https://github.com/handikatriarlan/talkease-mobile/releases/tag/v1.0.0) in [handikatriarlan/talkease-mobile](https://github.com/handikatriarlan/talkease-mobile)
 <!--END_SECTION:activity-->
 
 <br>
