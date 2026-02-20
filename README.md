@@ -69,7 +69,7 @@ const arlan = {
 ## ⚡ Recent Activity
 
 <!--START_SECTION:activity-->
-1. 🚀 Published release [TalkEase v1.0.0 (Preview)](https://github.com/handikatriarlan/talkease-mobile/releases/tag/v1.0.0) in [handikatriarlan/talkease-mobile](https://github.com/handikatriarlan/talkease-mobile)
+1. 💪 Opened PR [#27](https://github.com/IMPHNEN/Ramadhan-Code-Fest-2026/pull/27) in [IMPHNEN/Ramadhan-Code-Fest-2026](https://github.com/IMPHNEN/Ramadhan-Code-Fest-2026)
 <!--END_SECTION:activity-->
 
 <br>
