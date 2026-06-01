@@ -14,3 +14,20 @@ const arlan = {
     <img src="https://user-badge.committers.top/indonesia/handikatriarlan.svg" alt="Committers Top Badge" />
     <img src="https://img.shields.io/github/followers/handikatriarlan?label=Followers&style=social" alt="GitHub followers" />
 </p>
+
+<div align="center">
+  
+## ⚡ Recent Activity
+<!--START_SECTION:activity-->
+
+<!--END_SECTION:activity-->
+
+<br>
+
+## 📊 Weekly Development Breakdown
+
+<!--START_SECTION:waka-->
+
+<!--END_SECTION:waka-->
+
+</div>
