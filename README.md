@@ -18,6 +18,7 @@ const arlan = {
 <div align="center">
   
 ## ⚡ Recent Activity
+
 <!--START_SECTION:activity-->
 
 <!--END_SECTION:activity-->
