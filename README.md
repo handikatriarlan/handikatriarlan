@@ -28,8 +28,43 @@ const arlan = {
 ## 📊 Weekly Development Breakdown
 
 <!--START_SECTION:waka-->
+📅 **I'm Most Productive on Sunday** 
 
- Last Updated on 12/06/2026 04:46:16 UTC
+```text
+Monday                   946 commits         ███░░░░░░░░░░░░░░░░░░░░░░   12.67 % 
+Tuesday                  952 commits         ███░░░░░░░░░░░░░░░░░░░░░░   12.75 % 
+Wednesday                975 commits         ███░░░░░░░░░░░░░░░░░░░░░░   13.06 % 
+Thursday                 1105 commits        ████░░░░░░░░░░░░░░░░░░░░░   14.80 % 
+Friday                   1013 commits        ███░░░░░░░░░░░░░░░░░░░░░░   13.57 % 
+Saturday                 1220 commits        ████░░░░░░░░░░░░░░░░░░░░░   16.35 % 
+Sunday                   1253 commits        ████░░░░░░░░░░░░░░░░░░░░░   16.79 % 
+```
+
+
+📊 **This Week I Spent My Time On** 
+
+```text
+🕑︎ Time Zone: Asia/Jakarta
+
+💬 Programming Languages: 
+PHP                      10 hrs 48 mins      ██████████░░░░░░░░░░░░░░░   41.01 % 
+Blade Template           10 hrs 2 mins       ██████████░░░░░░░░░░░░░░░   38.13 % 
+Markdown                 2 hrs 41 mins       ███░░░░░░░░░░░░░░░░░░░░░░   10.23 % 
+TypeScript               1 hr 10 mins        █░░░░░░░░░░░░░░░░░░░░░░░░   04.44 % 
+HTML                     27 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   01.72 % 
+
+🔥 Editors: 
+VS Code                  16 hrs 2 mins       ███████████████░░░░░░░░░░   60.92 % 
+Cursor                   7 hrs 54 mins       ████████░░░░░░░░░░░░░░░░░   30.05 % 
+Antigravity              1 hr 37 mins        ██░░░░░░░░░░░░░░░░░░░░░░░   06.18 % 
+Zed                      45 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   02.85 % 
+
+💻 Operating System: 
+Linux                    26 hrs 20 mins      █████████████████████████   100.00 % 
+```
+
+
+ Last Updated on 13/06/2026 04:24:50 UTC
 <!--END_SECTION:waka-->
 
 </div>
