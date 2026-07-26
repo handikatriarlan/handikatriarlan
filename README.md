@@ -31,13 +31,13 @@ const arlan = {
 📅 **I'm Most Productive on Saturday** 
 
 ```text
-Monday                   925 commits         ███░░░░░░░░░░░░░░░░░░░░░░   12.33 % 
-Tuesday                  965 commits         ███░░░░░░░░░░░░░░░░░░░░░░   12.86 % 
-Wednesday                999 commits         ███░░░░░░░░░░░░░░░░░░░░░░   13.31 % 
-Thursday                 1093 commits        ████░░░░░░░░░░░░░░░░░░░░░   14.57 % 
-Friday                   1010 commits        ███░░░░░░░░░░░░░░░░░░░░░░   13.46 % 
-Saturday                 1267 commits        ████░░░░░░░░░░░░░░░░░░░░░   16.88 % 
-Sunday                   1245 commits        ████░░░░░░░░░░░░░░░░░░░░░   16.59 % 
+Monday                   994 commits         ███░░░░░░░░░░░░░░░░░░░░░░   12.55 % 
+Tuesday                  1039 commits        ███░░░░░░░░░░░░░░░░░░░░░░   13.12 % 
+Wednesday                1048 commits        ███░░░░░░░░░░░░░░░░░░░░░░   13.23 % 
+Thursday                 1154 commits        ████░░░░░░░░░░░░░░░░░░░░░   14.57 % 
+Friday                   1058 commits        ███░░░░░░░░░░░░░░░░░░░░░░   13.36 % 
+Saturday                 1314 commits        ████░░░░░░░░░░░░░░░░░░░░░   16.59 % 
+Sunday                   1314 commits        ████░░░░░░░░░░░░░░░░░░░░░   16.59 % 
 ```
 
 
@@ -47,24 +47,24 @@ Sunday                   1245 commits        ████░░░░░░░�
 🕑︎ Time Zone: Asia/Jakarta
 
 💬 Programming Languages: 
-PHP                      8 hrs 52 mins       ████████████░░░░░░░░░░░░░   47.02 % 
-Blade Template           7 hrs               █████████░░░░░░░░░░░░░░░░   37.16 % 
-Markdown                 2 hrs 1 min         ███░░░░░░░░░░░░░░░░░░░░░░   10.74 % 
-TypeScript               23 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   02.08 % 
-Other                    16 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   01.50 % 
+PHP                      8 hrs 52 mins       ████████████░░░░░░░░░░░░░   47.81 % 
+Blade Template           6 hrs 45 mins       █████████░░░░░░░░░░░░░░░░   36.41 % 
+Markdown                 2 hrs               ███░░░░░░░░░░░░░░░░░░░░░░   10.78 % 
+TypeScript               23 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   02.11 % 
+Other                    15 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   01.35 % 
 
 🔥 Editors: 
-VS Code                  15 hrs 24 mins      ████████████████████░░░░░   81.58 % 
-Cursor                   2 hrs 6 mins        ███░░░░░░░░░░░░░░░░░░░░░░   11.17 % 
-Opencode Cli             1 hr 4 mins         █░░░░░░░░░░░░░░░░░░░░░░░░   05.70 % 
-Antigravity CLI          17 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   01.54 % 
+VS Code                  15 hrs 24 mins      █████████████████████░░░░   82.98 % 
+Cursor                   1 hr 47 mins        ██░░░░░░░░░░░░░░░░░░░░░░░   09.66 % 
+Opencode Cli             1 hr 4 mins         █░░░░░░░░░░░░░░░░░░░░░░░░   05.80 % 
+Antigravity CLI          17 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   01.56 % 
 
 💻 Operating System: 
-Linux                    18 hrs 52 mins      █████████████████████████   100.00 % 
+Linux                    18 hrs 33 mins      █████████████████████████   100.00 % 
 ```
 
 
- Last Updated on 25/07/2026 03:26:12 UTC
+ Last Updated on 26/07/2026 03:35:19 UTC
 <!--END_SECTION:waka-->
 
 </div>
