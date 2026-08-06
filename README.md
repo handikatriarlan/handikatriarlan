@@ -4,7 +4,7 @@ const arlan = {
   location: "Indonesia 🇮🇩",
   role: "Web & Backend Developer",
   code: ["PHP", "Laravel", "JavaScript", "NestJS", "Bun"],
-  environment: "Fedora Linux"
+  environment: "CachyOS"
 };
 ```
 
