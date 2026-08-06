@@ -15,3 +15,5 @@ jobs:
       - uses: Readme-Workflows/recent-activity@main
         env:
           GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
+        with:
+          DISABLED_EVENTS: "PushEvent,GollumEvent,MemberEvent,CommitCommentEvent"
