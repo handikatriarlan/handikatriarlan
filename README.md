@@ -22,8 +22,8 @@ const arlan = {
 <!--RECENT_ACTIVITY:start-->
 1. ⬆️ Pushed undefined commit(s) to [handikatriarlan/handikatriarlan](https://github.com/handikatriarlan/handikatriarlan)<br>
 2. ⬆️ Pushed undefined commit(s) to [handikatriarlan/handikatriarlan](https://github.com/handikatriarlan/handikatriarlan)<br>
-3. ⭐ Starred [Readme-Workflows/recent-activity](https://github.com/Readme-Workflows/recent-activity)<br>
-4. ⬆️ Pushed undefined commit(s) to [handikatriarlan/handikatriarlan](https://github.com/handikatriarlan/handikatriarlan)<br>
+3. ⬆️ Pushed undefined commit(s) to [handikatriarlan/handikatriarlan](https://github.com/handikatriarlan/handikatriarlan)<br>
+4. ⭐ Starred [Readme-Workflows/recent-activity](https://github.com/Readme-Workflows/recent-activity)<br>
 5. ⬆️ Pushed undefined commit(s) to [handikatriarlan/handikatriarlan](https://github.com/handikatriarlan/handikatriarlan)<br>
 <!--RECENT_ACTIVITY:end-->
 
