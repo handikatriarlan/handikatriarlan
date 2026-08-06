@@ -19,8 +19,8 @@ const arlan = {
   
 ## ⚡ Recent Activity
 
-<!--START_SECTION:activity-->
-<!--END_SECTION:activity-->
+<!--RECENT_ACTIVITY:start-->
+<!--RECENT_ACTIVITY:end-->
 
 <br>
 
@@ -48,5 +48,3 @@ Opencode Cli             29 mins             ░░░░░░░░░░░�
 Linux                    25 hrs 21 mins      █████████████████████████   100.00 % 
 ```
 <!--END_SECTION:waka-->
-
-</div>
