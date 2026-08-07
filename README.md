@@ -32,24 +32,6 @@ const arlan = {
 ## 📊 Weekly Development Breakdown
 
 <!--START_SECTION:waka-->
-📊 **This Week I Spent My Time On** 
 
-```text
-🕑︎ Time Zone: Asia/Jakarta
-
-💬 Programming Languages: 
-Blade Template           7 hrs 37 mins       ████████░░░░░░░░░░░░░░░░░   30.10 % 
-PHP                      6 hrs 32 mins       ██████░░░░░░░░░░░░░░░░░░░   25.80 % 
-Markdown                 5 hrs 12 mins       █████░░░░░░░░░░░░░░░░░░░░   20.52 % 
-Bash                     3 hrs 8 mins        ███░░░░░░░░░░░░░░░░░░░░░░   12.40 % 
-JavaScript               1 hr 4 mins         █░░░░░░░░░░░░░░░░░░░░░░░░   04.25 % 
-
-🔥 Editors: 
-VS Code                  23 hrs 37 mins      ███████████████████████░░   93.19 % 
-Antigravity CLI          1 hr 14 mins        █░░░░░░░░░░░░░░░░░░░░░░░░   04.88 % 
-Opencode Cli             29 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   01.93 % 
-
-💻 Operating System: 
-Linux                    25 hrs 21 mins      █████████████████████████   100.00 % 
-```
+ Last Updated on 07/08/2026 02:52:02 UTC
 <!--END_SECTION:waka-->
