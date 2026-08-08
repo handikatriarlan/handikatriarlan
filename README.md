@@ -32,6 +32,54 @@ const arlan = {
 ## 📊 Weekly Development Breakdown
 
 <!--START_SECTION:waka-->
+![AI Code Time](http://img.shields.io/badge/AI%20Code%20Time-237%20hrs%2024%20mins-blue?style=flat)
 
- Last Updated on 07/08/2026 02:52:02 UTC
+📊 **This Week I Spent My Time On** 
+
+```text
+🕑︎ Time Zone: Asia/Jakarta
+
+💬 Programming Languages: 
+PHP                      6 hrs 33 mins       ███████░░░░░░░░░░░░░░░░░░   27.20 % 
+Blade Template           6 hrs 17 mins       ███████░░░░░░░░░░░░░░░░░░   26.15 % 
+Markdown                 4 hrs 24 mins       █████░░░░░░░░░░░░░░░░░░░░   18.30 % 
+Bash                     3 hrs 18 mins       ███░░░░░░░░░░░░░░░░░░░░░░   13.76 % 
+JavaScript               1 hr 6 mins         █░░░░░░░░░░░░░░░░░░░░░░░░   04.60 % 
+
+🔥 Editors: 
+VS Code                  23 hrs 6 mins       ████████████████████████░   95.93 % 
+Antigravity CLI          29 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   02.03 % 
+Opencode Cli             29 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   02.03 % 
+
+💻 Operating System: 
+Linux                    24 hrs 5 mins       █████████████████████████   100.00 % 
+```
+
+🤖 **AI Coding This Week** 
+
+```text
+⏱ AI Coding Time: 20 hrs 42 mins (86.0%)
+
+✍️ 7,576 lines written by AI, 515 lines written by hand (93.63% AI-written)
+
+🔤 36,198,631 Input Tokens, 798,480 Output Tokens
+
+💵 $135.72 Estimated AI Cost This Week
+
+🧠 263 AI Sessions, 575 AI Prompts
+
+Opencode-Cli             7,870 lines         ███████████████████████░░   91.71 % 
+GPT                      615 lines           ██░░░░░░░░░░░░░░░░░░░░░░░   07.17 % 
+Fable                    94 lines            ░░░░░░░░░░░░░░░░░░░░░░░░░   01.10 % 
+Gemini                   2 lines             ░░░░░░░░░░░░░░░░░░░░░░░░░   00.02 % 
+
+🔎 AI Coding Insights:
+🤖 AI-Driven — 93.63% of written lines came from AI
+📚 Verbose Prompter — average 6,769 characters per prompt
+🔁 Iterative Prompter — average 2 prompts per session
+🚀 High AI Trust — 9.3% of changed lines were hand-edited
+```
+
+
+ Last Updated on 08/08/2026 01:56:32 UTC
 <!--END_SECTION:waka-->
