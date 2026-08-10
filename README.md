@@ -16,18 +16,6 @@ const arlan = {
 </p>
 
 <div align="center">
-  
-## ⚡ Recent Activity
-
-<!--RECENT_ACTIVITY:start-->
-1. ⬆️ Pushed undefined commit(s) to [handikatriarlan/handikatriarlan](https://github.com/handikatriarlan/handikatriarlan)<br>
-2. ⭐ Starred [handikatriarlan/dotfiles](https://github.com/handikatriarlan/dotfiles)<br>
-3. ⬆️ Pushed undefined commit(s) to [handikatriarlan/handikatriarlan](https://github.com/handikatriarlan/handikatriarlan)<br>
-4. ⬆️ Pushed undefined commit(s) to [handikatriarlan/handikatriarlan](https://github.com/handikatriarlan/handikatriarlan)<br>
-5. ⬆️ Pushed undefined commit(s) to [handikatriarlan/handikatriarlan](https://github.com/handikatriarlan/handikatriarlan)<br>
-<!--RECENT_ACTIVITY:end-->
-
-<br>
 
 ## 📊 Weekly Development Breakdown
 
