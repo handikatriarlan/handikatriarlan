@@ -20,7 +20,7 @@ const arlan = {
 ## 📊 Weekly Development Breakdown
 
 <!--START_SECTION:waka-->
-![AI Code Time](http://img.shields.io/badge/AI%20Code%20Time-240%20hrs%2051%20mins-blue?style=flat)
+![AI Code Time](http://img.shields.io/badge/AI%20Code%20Time-246%20hrs%2027%20mins-blue?style=flat)
 
 📊 **This Week I Spent My Time On** 
 
@@ -28,45 +28,44 @@ const arlan = {
 🕑︎ Time Zone: Asia/Jakarta
 
 💬 Programming Languages: 
-PHP                      6 hrs 9 mins        ██████████░░░░░░░░░░░░░░░   40.48 % 
-Blade Template           4 hrs 57 mins       ████████░░░░░░░░░░░░░░░░░   32.58 % 
-Markdown                 2 hrs 23 mins       ████░░░░░░░░░░░░░░░░░░░░░   15.71 % 
-Other                    29 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   03.26 % 
-YAML                     17 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   01.87 % 
+PHP                      6 hrs 24 mins       ████████░░░░░░░░░░░░░░░░░   33.21 % 
+Blade Template           5 hrs 29 mins       ███████░░░░░░░░░░░░░░░░░░   28.41 % 
+Markdown                 4 hrs 10 mins       █████░░░░░░░░░░░░░░░░░░░░   21.62 % 
+JavaScript               58 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   05.06 % 
+JSON                     47 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   04.14 % 
 
 🔥 Editors: 
-VS Code                  14 hrs 53 mins      ████████████████████████░   97.90 % 
-Antigravity CLI          12 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   01.36 % 
-Opencode Cli             6 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.74 % 
+VS Code                  19 hrs 5 mins       █████████████████████████   98.84 % 
+Antigravity CLI          13 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   01.16 % 
 
 💻 Operating System: 
-Linux                    15 hrs 12 mins      █████████████████████████   100.00 % 
+Linux                    19 hrs 19 mins      █████████████████████████   100.00 % 
 ```
 
 🤖 **AI Coding This Week** 
 
 ```text
-⏱ AI Coding Time: 12 hrs 5 mins (79.53%)
+⏱ AI Coding Time: 15 hrs 43 mins (81.4%)
 
-✍️ 3,879 lines written by AI, 375 lines written by hand (91.18% AI-written)
+✍️ 4,876 lines written by AI, 385 lines written by hand (92.68% AI-written)
 
-🔤 23,492,117 Input Tokens, 343,153 Output Tokens
+🔤 47,334,053 Input Tokens, 639,382 Output Tokens
 
-💵 $102.51 Estimated AI Cost This Week
+💵 $318.80 Estimated AI Cost This Week
 
-🧠 103 AI Sessions, 263 AI Prompts
+🧠 117 AI Sessions, 276 AI Prompts
 
-Opencode-Cli             4,492 lines         █████████████████████████   99.87 % 
-GPT                      4 lines             ░░░░░░░░░░░░░░░░░░░░░░░░░   00.09 % 
+Opencode-Cli             5,620 lines         █████████████████████████   99.73 % 
+Deepseek                 13 lines            ░░░░░░░░░░░░░░░░░░░░░░░░░   00.23 % 
 Gemini                   2 lines             ░░░░░░░░░░░░░░░░░░░░░░░░░   00.04 % 
 
 🔎 AI Coding Insights:
-🤖 AI-Driven — 91.18% of written lines came from AI
-📚 Verbose Prompter — average 5,461 characters per prompt
-🔁 Iterative Prompter — average 3 prompts per session
-🚀 High AI Trust — 11.68% of changed lines were hand-edited
+🤖 AI-Driven — 92.68% of written lines came from AI
+📚 Verbose Prompter — average 5,382 characters per prompt
+🔁 Iterative Prompter — average 2 prompts per session
+🚀 High AI Trust — 9.8% of changed lines were hand-edited
 ```
 
 
- Last Updated on 11/08/2026 02:03:18 UTC
+ Last Updated on 12/08/2026 02:20:39 UTC
 <!--END_SECTION:waka-->
