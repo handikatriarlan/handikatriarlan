@@ -20,7 +20,7 @@ const arlan = {
 ## 📊 Weekly Development Breakdown
 
 <!--START_SECTION:waka-->
-![AI Code Time](http://img.shields.io/badge/AI%20Code%20Time-258%20hrs%2059%20mins-blue?style=flat)
+![AI Code Time](http://img.shields.io/badge/AI%20Code%20Time-266%20hrs%2037%20mins-blue?style=flat)
 
 📊 **This Week I Spent My Time On** 
 
@@ -28,48 +28,49 @@ const arlan = {
 🕑︎ Time Zone: Asia/Jakarta
 
 💬 Programming Languages: 
-Blade Template           6 hrs 52 mins       ██████░░░░░░░░░░░░░░░░░░░   25.77 % 
-PHP                      6 hrs 46 mins       ██████░░░░░░░░░░░░░░░░░░░   25.36 % 
-Markdown                 6 hrs 4 mins        ██████░░░░░░░░░░░░░░░░░░░   22.75 % 
-Other                    1 hr 39 mins        ██░░░░░░░░░░░░░░░░░░░░░░░   06.24 % 
-Python                   1 hr 26 mins        █░░░░░░░░░░░░░░░░░░░░░░░░   05.41 % 
+Blade Template           10 hrs 6 mins       ███████░░░░░░░░░░░░░░░░░░   29.38 % 
+Markdown                 8 hrs 57 mins       ███████░░░░░░░░░░░░░░░░░░   26.04 % 
+PHP                      8 hrs 12 mins       ██████░░░░░░░░░░░░░░░░░░░   23.86 % 
+Other                    1 hr 44 mins        █░░░░░░░░░░░░░░░░░░░░░░░░   05.06 % 
+Text                     1 hr 33 mins        █░░░░░░░░░░░░░░░░░░░░░░░░   04.51 % 
 
 🔥 Editors: 
-VS Code                  22 hrs 14 mins      █████████████████████░░░░   83.31 % 
-Cursor                   2 hrs 48 mins       ███░░░░░░░░░░░░░░░░░░░░░░   10.52 % 
-Opencode Cli             1 hr 20 mins        █░░░░░░░░░░░░░░░░░░░░░░░░   05.01 % 
-Agent                    16 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   01.02 % 
-Antigravity CLI          2 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.14 % 
+VS Code                  27 hrs 5 mins       ████████████████████░░░░░   78.79 % 
+Antigravity CLI          2 hrs 48 mins       ██░░░░░░░░░░░░░░░░░░░░░░░   08.17 % 
+Cursor                   2 hrs 48 mins       ██░░░░░░░░░░░░░░░░░░░░░░░   08.17 % 
+Opencode Cli             1 hr 24 mins        █░░░░░░░░░░░░░░░░░░░░░░░░   04.08 % 
+Agent                    16 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   00.79 % 
 
 💻 Operating System: 
-Linux                    26 hrs 42 mins      █████████████████████████   100.00 % 
+Linux                    34 hrs 23 mins      █████████████████████████   100.00 % 
 ```
 
 🤖 **AI Coding This Week** 
 
 ```text
-⏱ AI Coding Time: 23 hrs 5 mins (86.46%)
+⏱ AI Coding Time: 29 hrs 12 mins (84.93%)
 
-✍️ 7,087 lines written by AI, 317 lines written by hand (95.72% AI-written)
+✍️ 9,334 lines written by AI, 514 lines written by hand (94.78% AI-written)
 
-🔤 73,866,064 Input Tokens, 1,284,033 Output Tokens
+🔤 83,080,782 Input Tokens, 1,469,390 Output Tokens
 
-💵 $673.15 Estimated AI Cost This Week
+💵 $770.34 Estimated AI Cost This Week
 
-🧠 199 AI Sessions, 362 AI Prompts
+🧠 228 AI Sessions, 460 AI Prompts
 
-Opencode-Cli             7,886 lines         ███████████████████████░░   92.06 % 
-GPT                      340 lines           █░░░░░░░░░░░░░░░░░░░░░░░░   03.97 % 
-Composer                 327 lines           █░░░░░░░░░░░░░░░░░░░░░░░░   03.82 % 
-Deepseek                 13 lines            ░░░░░░░░░░░░░░░░░░░░░░░░░   00.15 % 
+Opencode-Cli             7,851 lines         ██████████████████░░░░░░░   72.69 % 
+Gemini                   2,195 lines         █████░░░░░░░░░░░░░░░░░░░░   20.32 % 
+GPT                      340 lines           █░░░░░░░░░░░░░░░░░░░░░░░░   03.15 % 
+Composer                 327 lines           █░░░░░░░░░░░░░░░░░░░░░░░░   03.03 % 
+Sonnet                   74 lines            ░░░░░░░░░░░░░░░░░░░░░░░░░   00.69 % 
 
 🔎 AI Coding Insights:
-🤖 AI-Driven — 95.72% of written lines came from AI
-📚 Verbose Prompter — average 3,180 characters per prompt
+🤖 AI-Driven — 94.78% of written lines came from AI
+📚 Verbose Prompter — average 3,253 characters per prompt
 🔁 Iterative Prompter — average 2 prompts per session
-🚀 High AI Trust — 7.09% of changed lines were hand-edited
+🚀 High AI Trust — 12.34% of changed lines were hand-edited
 ```
 
 
- Last Updated on 14/08/2026 02:20:39 UTC
+ Last Updated on 15/08/2026 01:30:09 UTC
 <!--END_SECTION:waka-->
