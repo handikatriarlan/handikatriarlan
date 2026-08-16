@@ -28,49 +28,49 @@ const arlan = {
 🕑︎ Time Zone: Asia/Jakarta
 
 💬 Programming Languages: 
-Blade Template           10 hrs 6 mins       ███████░░░░░░░░░░░░░░░░░░   29.38 % 
-Markdown                 8 hrs 57 mins       ███████░░░░░░░░░░░░░░░░░░   26.04 % 
-PHP                      8 hrs 12 mins       ██████░░░░░░░░░░░░░░░░░░░   23.86 % 
-Other                    1 hr 44 mins        █░░░░░░░░░░░░░░░░░░░░░░░░   05.06 % 
-Text                     1 hr 33 mins        █░░░░░░░░░░░░░░░░░░░░░░░░   04.51 % 
+Blade Template           9 hrs 43 mins       ███████░░░░░░░░░░░░░░░░░░   28.99 % 
+Markdown                 8 hrs 57 mins       ███████░░░░░░░░░░░░░░░░░░   26.70 % 
+PHP                      7 hrs 47 mins       ██████░░░░░░░░░░░░░░░░░░░   23.21 % 
+Other                    1 hr 44 mins        █░░░░░░░░░░░░░░░░░░░░░░░░   05.19 % 
+Text                     1 hr 33 mins        █░░░░░░░░░░░░░░░░░░░░░░░░   04.62 % 
 
 🔥 Editors: 
-VS Code                  27 hrs 5 mins       ████████████████████░░░░░   78.79 % 
-Antigravity CLI          2 hrs 48 mins       ██░░░░░░░░░░░░░░░░░░░░░░░   08.17 % 
-Cursor                   2 hrs 48 mins       ██░░░░░░░░░░░░░░░░░░░░░░░   08.17 % 
-Opencode Cli             1 hr 24 mins        █░░░░░░░░░░░░░░░░░░░░░░░░   04.08 % 
-Agent                    16 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   00.79 % 
+VS Code                  26 hrs 14 mins      ████████████████████░░░░░   78.26 % 
+Antigravity CLI          2 hrs 48 mins       ██░░░░░░░░░░░░░░░░░░░░░░░   08.38 % 
+Cursor                   2 hrs 48 mins       ██░░░░░░░░░░░░░░░░░░░░░░░   08.37 % 
+Opencode Cli             1 hr 24 mins        █░░░░░░░░░░░░░░░░░░░░░░░░   04.18 % 
+Agent                    16 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   00.81 % 
 
 💻 Operating System: 
-Linux                    34 hrs 23 mins      █████████████████████████   100.00 % 
+Linux                    33 hrs 32 mins      █████████████████████████   100.00 % 
 ```
 
 🤖 **AI Coding This Week** 
 
 ```text
-⏱ AI Coding Time: 29 hrs 12 mins (84.93%)
+⏱ AI Coding Time: 28 hrs 21 mins (84.54%)
 
-✍️ 9,334 lines written by AI, 514 lines written by hand (94.78% AI-written)
+✍️ 9,219 lines written by AI, 514 lines written by hand (94.72% AI-written)
 
-🔤 83,080,782 Input Tokens, 1,469,390 Output Tokens
+🔤 81,674,184 Input Tokens, 1,431,840 Output Tokens
 
-💵 $770.34 Estimated AI Cost This Week
+💵 $760.81 Estimated AI Cost This Week
 
-🧠 228 AI Sessions, 460 AI Prompts
+🧠 223 AI Sessions, 451 AI Prompts
 
-Opencode-Cli             7,851 lines         ██████████████████░░░░░░░   72.69 % 
-Gemini                   2,195 lines         █████░░░░░░░░░░░░░░░░░░░░   20.32 % 
-GPT                      340 lines           █░░░░░░░░░░░░░░░░░░░░░░░░   03.15 % 
-Composer                 327 lines           █░░░░░░░░░░░░░░░░░░░░░░░░   03.03 % 
+Opencode-Cli             7,710 lines         ██████████████████░░░░░░░   72.33 % 
+Gemini                   2,195 lines         █████░░░░░░░░░░░░░░░░░░░░   20.59 % 
+GPT                      340 lines           █░░░░░░░░░░░░░░░░░░░░░░░░   03.19 % 
+Composer                 327 lines           █░░░░░░░░░░░░░░░░░░░░░░░░   03.07 % 
 Sonnet                   74 lines            ░░░░░░░░░░░░░░░░░░░░░░░░░   00.69 % 
 
 🔎 AI Coding Insights:
-🤖 AI-Driven — 94.78% of written lines came from AI
-📚 Verbose Prompter — average 3,253 characters per prompt
+🤖 AI-Driven — 94.72% of written lines came from AI
+📚 Verbose Prompter — average 2,960 characters per prompt
 🔁 Iterative Prompter — average 2 prompts per session
-🚀 High AI Trust — 12.34% of changed lines were hand-edited
+🚀 High AI Trust — 12.49% of changed lines were hand-edited
 ```
 
 
- Last Updated on 15/08/2026 01:30:09 UTC
+ Last Updated on 16/08/2026 01:39:26 UTC
 <!--END_SECTION:waka-->
