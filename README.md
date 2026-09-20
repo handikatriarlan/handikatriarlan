@@ -28,46 +28,46 @@ const arlan = {
 🕑︎ Time Zone: Asia/Jakarta
 
 💬 Programming Languages: 
-PHP                      29 hrs 15 mins      ███████████░░░░░░░░░░░░░░   45.71 % 
-Markdown                 16 hrs 12 mins      ██████░░░░░░░░░░░░░░░░░░░   25.33 % 
-Blade Template           12 hrs 35 mins      █████░░░░░░░░░░░░░░░░░░░░   19.68 % 
-Other                    1 hr 29 mins        █░░░░░░░░░░░░░░░░░░░░░░░░   02.34 % 
-TypeScript               1 hr 2 mins         ░░░░░░░░░░░░░░░░░░░░░░░░░   01.62 % 
+PHP                      25 hrs 34 mins      ████████████░░░░░░░░░░░░░   47.42 % 
+Markdown                 13 hrs 20 mins      ██████░░░░░░░░░░░░░░░░░░░   24.75 % 
+Blade Template           11 hrs 44 mins      █████░░░░░░░░░░░░░░░░░░░░   21.79 % 
+Other                    1 hr 21 mins        █░░░░░░░░░░░░░░░░░░░░░░░░   02.53 % 
+Bash                     40 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   01.26 % 
 
 🔥 Editors: 
-VS Code                  54 hrs 49 mins      █████████████████████░░░░   85.65 % 
-Antigravity CLI          6 hrs 2 mins        ██░░░░░░░░░░░░░░░░░░░░░░░   09.43 % 
-Opencode Cli             3 hrs 9 mins        █░░░░░░░░░░░░░░░░░░░░░░░░   04.92 % 
+VS Code                  44 hrs 44 mins      █████████████████████░░░░   82.98 % 
+Antigravity CLI          6 hrs 1 min         ███░░░░░░░░░░░░░░░░░░░░░░   11.18 % 
+Opencode Cli             3 hrs 9 mins        █░░░░░░░░░░░░░░░░░░░░░░░░   05.84 % 
 
 💻 Operating System: 
-Linux                    64 hrs 1 min        █████████████████████████   100.00 % 
+Linux                    53 hrs 55 mins      █████████████████████████   100.00 % 
 ```
 
 🤖 **AI Coding This Week** 
 
 ```text
-⏱ AI Coding Time: 55 hrs 8 mins (86.14%)
+⏱ AI Coding Time: 46 hrs 51 mins (86.91%)
 
-✍️ 48,377 lines written by AI, 2,122 lines written by hand (95.8% AI-written)
+✍️ 43,023 lines written by AI, 2,063 lines written by hand (95.42% AI-written)
 
-🔤 59,295,130 Input Tokens, 9,939,751 Output Tokens
+🔤 51,569,101 Input Tokens, 8,051,690 Output Tokens
 
-💵 $4381.65 Estimated AI Cost This Week
+💵 $3724.07 Estimated AI Cost This Week
 
-🧠 135 AI Sessions, 896 AI Prompts
+🧠 123 AI Sessions, 783 AI Prompts
 
-Deepseek                 47,283 lines        ████████████████████████░   94.69 % 
-GPT                      2,644 lines         █░░░░░░░░░░░░░░░░░░░░░░░░   05.30 % 
+Deepseek                 41,700 lines        ████████████████████████░   94.02 % 
+GPT                      2,644 lines         █░░░░░░░░░░░░░░░░░░░░░░░░   05.96 % 
 Opencode-Cli             6 lines             ░░░░░░░░░░░░░░░░░░░░░░░░░   00.01 % 
 Spark                    0 lines             ░░░░░░░░░░░░░░░░░░░░░░░░░   00.00 % 
 
 🔎 AI Coding Insights:
-🤖 AI-Driven — 95.8% of written lines came from AI
-📚 Verbose Prompter — average 3,038 characters per prompt
-🔁 Iterative Prompter — average 7 prompts per session
-🚀 High AI Trust — 5.29% of changed lines were hand-edited
+🤖 AI-Driven — 95.42% of written lines came from AI
+📚 Verbose Prompter — average 3,060 characters per prompt
+🔁 Iterative Prompter — average 6 prompts per session
+🚀 High AI Trust — 5.7% of changed lines were hand-edited
 ```
 
 
- Last Updated on 19/09/2026 04:00:41 UTC
+ Last Updated on 20/09/2026 04:20:21 UTC
 <!--END_SECTION:waka-->
