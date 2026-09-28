@@ -28,43 +28,43 @@ const arlan = {
 🕑︎ Time Zone: Asia/Jakarta
 
 💬 Programming Languages: 
-PHP                      2 hrs 59 mins       ████████░░░░░░░░░░░░░░░░░   32.58 % 
-Blade Template           1 hr 50 mins        █████░░░░░░░░░░░░░░░░░░░░   20.07 % 
-Markdown                 1 hr 23 mins        ████░░░░░░░░░░░░░░░░░░░░░   15.20 % 
-JSON                     47 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   08.55 % 
-Bash                     46 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   08.46 % 
+PHP                      2 hrs 51 mins       ████████░░░░░░░░░░░░░░░░░   31.99 % 
+Blade Template           2 hrs 13 mins       ██████░░░░░░░░░░░░░░░░░░░   24.84 % 
+Markdown                 1 hr 6 mins         ███░░░░░░░░░░░░░░░░░░░░░░   12.49 % 
+Bash                     1 hr 6 mins         ███░░░░░░░░░░░░░░░░░░░░░░   12.33 % 
+JSON                     52 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   09.84 % 
 
 🔥 Editors: 
-VS Code                  8 hrs               ██████████████████████░░░   86.91 % 
-Antigravity CLI          1 hr 12 mins        ███░░░░░░░░░░░░░░░░░░░░░░   13.09 % 
+VS Code                  8 hrs 20 mins       ███████████████████████░░   93.47 % 
+Antigravity CLI          34 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   06.53 % 
 
 💻 Operating System: 
-Linux                    9 hrs 12 mins       █████████████████████████   100.00 % 
+Linux                    8 hrs 55 mins       █████████████████████████   100.00 % 
 ```
 
 🤖 **AI Coding This Week** 
 
 ```text
-⏱ AI Coding Time: 4 hrs 55 mins (53.47%)
+⏱ AI Coding Time: 3 hrs 58 mins (44.63%)
 
-✍️ 142 lines written by AI, 174 lines written by hand (44.94% AI-written)
+✍️ 118 lines written by AI, 198 lines written by hand (37.34% AI-written)
 
-🔤 1,864,804 Input Tokens, 194,992 Output Tokens
+🔤 1,680,703 Input Tokens, 179,267 Output Tokens
 
-💵 $98.58 Estimated AI Cost This Week
+💵 $82.54 Estimated AI Cost This Week
 
-🧠 10 AI Sessions, 58 AI Prompts
+🧠 7 AI Sessions, 47 AI Prompts
 
-Spark                    100 lines           ███████████████░░░░░░░░░░   59.88 % 
-Opencode-Cli             67 lines            ██████████░░░░░░░░░░░░░░░   40.12 % 
+Spark                    76 lines            █████████████░░░░░░░░░░░░   53.15 % 
+Opencode-Cli             67 lines            ████████████░░░░░░░░░░░░░   46.85 % 
 
 🔎 AI Coding Insights:
-⚖️ Balanced with AI — 44.94% of written lines came from AI
-📚 Verbose Prompter — average 4,596 characters per prompt
-🔁 Iterative Prompter — average 6 prompts per session
-🔍 Hands-On Reviewer — 69.36% of changed lines were hand-edited
+⚖️ Balanced with AI — 37.34% of written lines came from AI
+📚 Verbose Prompter — average 5,542 characters per prompt
+🔁 Iterative Prompter — average 7 prompts per session
+🔍 Hands-On Reviewer — 82.6% of changed lines were hand-edited
 ```
 
 
- Last Updated on 27/09/2026 04:40:55 UTC
+ Last Updated on 28/09/2026 04:42:46 UTC
 <!--END_SECTION:waka-->
