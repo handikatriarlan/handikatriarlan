@@ -20,7 +20,7 @@ const arlan = {
 ## 📊 Weekly Development Breakdown
 
 <!--START_SECTION:waka-->
-![AI Code Time](http://img.shields.io/badge/AI%20Code%20Time-441%20hrs%207%20mins-blue?style=flat)
+![AI Code Time](http://img.shields.io/badge/AI%20Code%20Time-446%20hrs%2038%20mins-blue?style=flat)
 
 📊 **This Week I Spent My Time On** 
 
@@ -28,42 +28,42 @@ const arlan = {
 🕑︎ Time Zone: Asia/Jakarta
 
 💬 Programming Languages: 
-PHP                      3 hrs 57 mins       ██████████░░░░░░░░░░░░░░░   40.25 % 
-Blade Template           3 hrs 5 mins        ████████░░░░░░░░░░░░░░░░░   31.50 % 
-Markdown                 1 hr 1 min          ███░░░░░░░░░░░░░░░░░░░░░░   10.51 % 
-Bash                     36 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   06.12 % 
-JSON                     31 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   05.27 % 
+TypeScript               4 hrs 53 mins       ████████░░░░░░░░░░░░░░░░░   31.79 % 
+PHP                      4 hrs 1 min         ███████░░░░░░░░░░░░░░░░░░   26.09 % 
+Blade Template           2 hrs 44 mins       ████░░░░░░░░░░░░░░░░░░░░░   17.81 % 
+Markdown                 1 hr 36 mins        ███░░░░░░░░░░░░░░░░░░░░░░   10.41 % 
+Bash                     42 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   04.64 % 
 
 🔥 Editors: 
-VS Code                  9 hrs 48 mins       █████████████████████████   100.00 % 
+VS Code                  15 hrs 24 mins      █████████████████████████   100.00 % 
 
 💻 Operating System: 
-Linux                    9 hrs 48 mins       █████████████████████████   100.00 % 
+Linux                    15 hrs 24 mins      █████████████████████████   100.00 % 
 ```
 
 🤖 **AI Coding This Week** 
 
 ```text
-⏱ AI Coding Time: 3 hrs 11 mins (32.49%)
+⏱ AI Coding Time: 7 hrs 59 mins (51.91%)
 
-✍️ 120 lines written by AI, 461 lines written by hand (20.65% AI-written)
+✍️ 2,975 lines written by AI, 468 lines written by hand (86.41% AI-written)
 
-🔤 1,444,221 Input Tokens, 197,958 Output Tokens
+🔤 8,286,493 Input Tokens, 687,126 Output Tokens
 
-💵 $98.40 Estimated AI Cost This Week
+💵 $437.95 Estimated AI Cost This Week
 
-🧠 6 AI Sessions, 32 AI Prompts
+🧠 14 AI Sessions, 57 AI Prompts
 
-Spark                    76 lines            █████████████░░░░░░░░░░░░   52.41 % 
-Opencode-Cli             69 lines            ████████████░░░░░░░░░░░░░   47.59 % 
+Opencode-Cli             3,014 lines         █████████████████████████   99.74 % 
+Spark                    8 lines             ░░░░░░░░░░░░░░░░░░░░░░░░░   00.26 % 
 
 🔎 AI Coding Insights:
-🧑‍💻 Mostly Hands-On — 20.65% of written lines came from AI
-📚 Verbose Prompter — average 10,149 characters per prompt
-🔁 Iterative Prompter — average 5 prompts per session
-🔍 Hands-On Reviewer — 92.17% of changed lines were hand-edited
+🤖 AI-Driven — 86.41% of written lines came from AI
+📚 Verbose Prompter — average 4,047 characters per prompt
+🔁 Iterative Prompter — average 4 prompts per session
+🚀 High AI Trust — 36.63% of changed lines were hand-edited
 ```
 
 
- Last Updated on 01/10/2026 05:09:49 UTC
+ Last Updated on 02/10/2026 04:59:24 UTC
 <!--END_SECTION:waka-->
