@@ -28,48 +28,48 @@ const arlan = {
 🕑︎ Time Zone: Asia/Jakarta
 
 💬 Programming Languages: 
-PHP                      29 hrs 31 mins      ███████████░░░░░░░░░░░░░░   42.21 % 
-Blade Template           19 hrs 27 mins      ███████░░░░░░░░░░░░░░░░░░   27.82 % 
-Markdown                 11 hrs 36 mins      ████░░░░░░░░░░░░░░░░░░░░░   16.58 % 
-Other                    3 hrs 2 mins        █░░░░░░░░░░░░░░░░░░░░░░░░   04.34 % 
-JavaScript               1 hr 48 mins        █░░░░░░░░░░░░░░░░░░░░░░░░   02.59 % 
+PHP                      21 hrs 36 mins      █████████░░░░░░░░░░░░░░░░   37.65 % 
+Blade Template           17 hrs 55 mins      ████████░░░░░░░░░░░░░░░░░   31.22 % 
+Markdown                 9 hrs 15 mins       ████░░░░░░░░░░░░░░░░░░░░░   16.12 % 
+Other                    2 hrs 39 mins       █░░░░░░░░░░░░░░░░░░░░░░░░   04.62 % 
+JavaScript               1 hr 44 mins        █░░░░░░░░░░░░░░░░░░░░░░░░   03.04 % 
 
 🔥 Editors: 
-VS Code                  44 hrs 43 mins      ████████████████░░░░░░░░░   63.93 % 
-OMP                      11 hrs 9 mins       ████░░░░░░░░░░░░░░░░░░░░░   15.94 % 
-Antigravity CLI          10 hrs 18 mins      ████░░░░░░░░░░░░░░░░░░░░░   14.74 % 
-Opencode Cli             3 hrs 46 mins       █░░░░░░░░░░░░░░░░░░░░░░░░   05.39 % 
+VS Code                  32 hrs 10 mins      ██████████████░░░░░░░░░░░   56.05 % 
+OMP                      11 hrs 8 mins       █████░░░░░░░░░░░░░░░░░░░░   19.42 % 
+Antigravity CLI          10 hrs 18 mins      ████░░░░░░░░░░░░░░░░░░░░░   17.97 % 
+Opencode Cli             3 hrs 46 mins       ██░░░░░░░░░░░░░░░░░░░░░░░   06.56 % 
 
 💻 Operating System: 
-Linux                    69 hrs 57 mins      █████████████████████████   100.00 % 
+Linux                    57 hrs 24 mins      █████████████████████████   100.00 % 
 ```
 
 🤖 **AI Coding This Week** 
 
 ```text
-⏱ AI Coding Time: 60 hrs 21 mins (86.28%)
+⏱ AI Coding Time: 47 hrs 54 mins (83.46%)
 
-✍️ 27,576 lines written by AI, 1,736 lines written by hand (94.08% AI-written)
+✍️ 22,644 lines written by AI, 1,730 lines written by hand (92.9% AI-written)
 
-🔤 2,370,584,553 Input Tokens, 6,060,808 Output Tokens
+🔤 1,767,809,675 Input Tokens, 4,906,074 Output Tokens
 
-💵 $12614.08 Estimated AI Cost This Week
+💵 $9017.87 Estimated AI Cost This Week
 
-🧠 7954 AI Sessions, 1376 AI Prompts
+🧠 5201 AI Sessions, 1255 AI Prompts
 
-Gemini                   13,302 lines        ████████████░░░░░░░░░░░░░   48.12 % 
-OMP                      11,766 lines        ███████████░░░░░░░░░░░░░░   42.56 % 
-DeepSeek                 1,235 lines         █░░░░░░░░░░░░░░░░░░░░░░░░   04.47 % 
-MiMo                     1,116 lines         █░░░░░░░░░░░░░░░░░░░░░░░░   04.04 % 
-Sonnet                   216 lines           ░░░░░░░░░░░░░░░░░░░░░░░░░   00.78 % 
+Gemini                   13,302 lines        ███████████████░░░░░░░░░░   58.57 % 
+OMP                      6,834 lines         ████████░░░░░░░░░░░░░░░░░   30.09 % 
+DeepSeek                 1,235 lines         █░░░░░░░░░░░░░░░░░░░░░░░░   05.44 % 
+MiMo                     1,116 lines         █░░░░░░░░░░░░░░░░░░░░░░░░   04.91 % 
+Sonnet                   216 lines           ░░░░░░░░░░░░░░░░░░░░░░░░░   00.95 % 
 
 🔎 AI Coding Insights:
-🤖 AI-Driven — 94.08% of written lines came from AI
-📝 Concise Prompter — average 425 characters per prompt
+🤖 AI-Driven — 92.9% of written lines came from AI
+📝 Concise Prompter — average 416 characters per prompt
 🎯 One-Shot Prompter — average 0 prompts per session
-🚀 High AI Trust — 10.57% of changed lines were hand-edited
+🚀 High AI Trust — 12.53% of changed lines were hand-edited
 ```
 
 
- Last Updated on 11/10/2026 05:04:36 UTC
+ Last Updated on 12/10/2026 05:18:36 UTC
 <!--END_SECTION:waka-->
