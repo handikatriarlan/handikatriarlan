@@ -20,7 +20,7 @@ const arlan = {
 ## 📊 Weekly Development Breakdown
 
 <!--START_SECTION:waka-->
-![AI Code Time](http://img.shields.io/badge/AI%20Code%20Time-638%20hrs%2024%20mins-blue?style=flat)
+![AI Code Time](http://img.shields.io/badge/AI%20Code%20Time-643%20hrs%205%20mins-blue?style=flat)
 
 📊 **This Week I Spent My Time On** 
 
@@ -28,49 +28,49 @@ const arlan = {
 🕑︎ Time Zone: Asia/Jakarta
 
 💬 Programming Languages: 
-PHP                      26 hrs 10 mins      ███████████████░░░░░░░░░░   61.61 % 
-Blade Template           10 hrs 33 mins      ██████░░░░░░░░░░░░░░░░░░░   24.85 % 
-Other                    3 hrs 9 mins        ██░░░░░░░░░░░░░░░░░░░░░░░   07.45 % 
-Markdown                 1 hr 9 mins         █░░░░░░░░░░░░░░░░░░░░░░░░   02.71 % 
-CSV                      31 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   01.23 % 
+PHP                      25 hrs 33 mins      ███████████████░░░░░░░░░░   58.56 % 
+Blade Template           11 hrs 54 mins      ███████░░░░░░░░░░░░░░░░░░   27.28 % 
+Other                    3 hrs 12 mins       ██░░░░░░░░░░░░░░░░░░░░░░░   07.34 % 
+Markdown                 1 hr 23 mins        █░░░░░░░░░░░░░░░░░░░░░░░░   03.19 % 
+JavaScript               41 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   01.59 % 
 
 🔥 Editors: 
-OMP                      18 hrs 3 mins       ███████████░░░░░░░░░░░░░░   42.51 % 
-Code Oss                 14 hrs 41 mins      █████████░░░░░░░░░░░░░░░░   34.58 % 
-VS Code                  8 hrs 42 mins       █████░░░░░░░░░░░░░░░░░░░░   20.50 % 
-OpenCode                 57 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   02.27 % 
-Opencode Cli             3 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.14 % 
+OMP                      18 hrs 48 mins      ███████████░░░░░░░░░░░░░░   43.12 % 
+Code Oss                 16 hrs 8 mins       █████████░░░░░░░░░░░░░░░░   37.01 % 
+VS Code                  7 hrs 38 mins       ████░░░░░░░░░░░░░░░░░░░░░   17.52 % 
+OpenCode                 57 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   02.21 % 
+Opencode Cli             3 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.13 % 
 
 💻 Operating System: 
-Linux                    42 hrs 28 mins      █████████████████████████   100.00 % 
+Linux                    43 hrs 37 mins      █████████████████████████   100.00 % 
 ```
 
 🤖 **AI Coding This Week** 
 
 ```text
-⏱ AI Coding Time: 37 hrs 52 mins (89.17%)
+⏱ AI Coding Time: 40 hrs 15 mins (92.29%)
 
-✍️ 17,136 lines written by AI, 643 lines written by hand (96.38% AI-written)
+✍️ 18,251 lines written by AI, 176 lines written by hand (99.04% AI-written)
 
-🔤 2,236,685,112 Input Tokens, 2,658,140 Output Tokens
+🔤 2,442,492,816 Input Tokens, 2,704,960 Output Tokens
 
-💵 $2177.54 Estimated AI Cost This Week
+💵 $2360.09 Estimated AI Cost This Week
 
-🧠 4536 AI Sessions, 346 AI Prompts
+🧠 4627 AI Sessions, 432 AI Prompts
 
-GLM                      8,324 lines         ███████████░░░░░░░░░░░░░░   43.61 % 
-Gemini                   6,463 lines         ████████░░░░░░░░░░░░░░░░░   33.86 % 
-DeepSeek                 2,269 lines         ███░░░░░░░░░░░░░░░░░░░░░░   11.89 % 
-OMP                      1,157 lines         ██░░░░░░░░░░░░░░░░░░░░░░░   06.06 % 
-Code-Oss                 380 lines           ░░░░░░░░░░░░░░░░░░░░░░░░░   01.99 % 
+GLM                      10,552 lines        █████████████░░░░░░░░░░░░   51.97 % 
+Gemini                   5,450 lines         ███████░░░░░░░░░░░░░░░░░░   26.84 % 
+DeepSeek                 2,269 lines         ███░░░░░░░░░░░░░░░░░░░░░░   11.18 % 
+OMP                      1,157 lines         █░░░░░░░░░░░░░░░░░░░░░░░░   05.70 % 
+Code-Oss                 380 lines           ░░░░░░░░░░░░░░░░░░░░░░░░░   01.87 % 
 
 🔎 AI Coding Insights:
-🤖 AI-Driven — 96.38% of written lines came from AI
-📝 Concise Prompter — average 227 characters per prompt
+🤖 AI-Driven — 99.04% of written lines came from AI
+📝 Concise Prompter — average 187 characters per prompt
 🎯 One-Shot Prompter — average 0 prompts per session
-🚀 High AI Trust — 15.86% of changed lines were hand-edited
+🚀 High AI Trust — 3.0% of changed lines were hand-edited
 ```
 
 
- Last Updated on 09/11/2026 05:36:12 UTC
+ Last Updated on 10/11/2026 06:45:56 UTC
 <!--END_SECTION:waka-->
