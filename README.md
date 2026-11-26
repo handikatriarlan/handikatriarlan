@@ -28,35 +28,35 @@ const arlan = {
 🕑︎ Time Zone: Asia/Jakarta
 
 💬 Programming Languages: 
-Other                    16 hrs 7 mins       ████████░░░░░░░░░░░░░░░░░   30.71 % 
-PHP                      15 hrs 45 mins      ████████░░░░░░░░░░░░░░░░░   30.04 % 
-Blade Template           15 hrs 39 mins      ███████░░░░░░░░░░░░░░░░░░   29.84 % 
-Markdown                 2 hrs 33 mins       █░░░░░░░░░░░░░░░░░░░░░░░░   04.89 % 
-JavaScript               1 hr 1 min          ░░░░░░░░░░░░░░░░░░░░░░░░░   01.94 % 
+Other                    24 hrs 44 mins      ██████████░░░░░░░░░░░░░░░   41.13 % 
+PHP                      15 hrs 58 mins      ███████░░░░░░░░░░░░░░░░░░   26.56 % 
+Blade Template           14 hrs 36 mins      ██████░░░░░░░░░░░░░░░░░░░   24.29 % 
+Markdown                 2 hrs 40 mins       █░░░░░░░░░░░░░░░░░░░░░░░░   04.45 % 
+JavaScript               47 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   01.32 % 
 
 🔥 Editors: 
-Chrome                   15 hrs 53 mins      ████████░░░░░░░░░░░░░░░░░   30.26 % 
-VS Code                  15 hrs 43 mins      ███████░░░░░░░░░░░░░░░░░░   29.96 % 
-Code Oss                 7 hrs 5 mins        ███░░░░░░░░░░░░░░░░░░░░░░   13.51 % 
-Antigravity Desktop      4 hrs 5 mins        ██░░░░░░░░░░░░░░░░░░░░░░░   07.80 % 
-Antigravity              3 hrs 51 mins       ██░░░░░░░░░░░░░░░░░░░░░░░   07.35 % 
+Chrome                   25 hrs 42 mins      ███████████░░░░░░░░░░░░░░   42.72 % 
+VS Code                  15 hrs 10 mins      ██████░░░░░░░░░░░░░░░░░░░   25.22 % 
+Code Oss                 6 hrs 5 mins        ███░░░░░░░░░░░░░░░░░░░░░░   10.14 % 
+Antigravity              3 hrs 51 mins       ██░░░░░░░░░░░░░░░░░░░░░░░   06.41 % 
+Antigravity Desktop      3 hrs 41 mins       ██░░░░░░░░░░░░░░░░░░░░░░░   06.13 % 
 
 💻 Operating System: 
-Linux                    52 hrs 29 mins      █████████████████████████   100.00 % 
+Linux                    60 hrs 10 mins      █████████████████████████   100.00 % 
 ```
 
 🤖 **AI Coding This Week** 
 
 ```text
-⏱ AI Coding Time: 25 hrs 6 mins (47.84%)
+⏱ AI Coding Time: 22 hrs 47 mins (37.88%)
 
-✍️ 6,466 lines written by AI, 2,017 lines written by hand (76.22% AI-written)
+✍️ 6,466 lines written by AI, 2,023 lines written by hand (76.17% AI-written)
 
-🔤 22,149,229 Input Tokens, 1,533,111 Output Tokens
+🔤 18,039,663 Input Tokens, 1,494,580 Output Tokens
 
-💵 $577.59 Estimated AI Cost This Week
+💵 $557.83 Estimated AI Cost This Week
 
-🧠 193 AI Sessions, 297 AI Prompts
+🧠 140 AI Sessions, 268 AI Prompts
 
 Tencent Hy               6,700 lines         █████████████████████████   100.00 % 
 Gemini                   0 lines             ░░░░░░░░░░░░░░░░░░░░░░░░░   00.00 % 
@@ -65,12 +65,12 @@ Code-Oss                 0 lines             ░░░░░░░░░░░�
 G                        0 lines             ░░░░░░░░░░░░░░░░░░░░░░░░░   00.00 % 
 
 🔎 AI Coding Insights:
-🤖 AI-Driven — 76.22% of written lines came from AI
-📝 Concise Prompter — average 316 characters per prompt
+🤖 AI-Driven — 76.17% of written lines came from AI
+📝 Concise Prompter — average 315 characters per prompt
 🔁 Iterative Prompter — average 2 prompts per session
-🚀 High AI Trust — 42.62% of changed lines were hand-edited
+🚀 High AI Trust — 41.19% of changed lines were hand-edited
 ```
 
 
- Last Updated on 25/11/2026 07:50:58 UTC
+ Last Updated on 26/11/2026 07:41:41 UTC
 <!--END_SECTION:waka-->
